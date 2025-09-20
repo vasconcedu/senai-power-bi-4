@@ -1,0 +1,1001 @@
+﻿data;nro_cadastro_paciente;convenio;especialidade;medico;valor;status_pagto;forma_pagto
+19/02/2021;2907;PlanClin;Oftalmologia;Maria Amélia Freitas de Barros;667,70;Pago;Cartão débito
+10/09/2022;2809;PlanClin;Clínica Geral;Marcela Ota Bonaventura;527,57;Cancelado;Cheque
+20/09/2020;2684;ProntoCare;Oftalmologia;Maria Amélia Freitas de Barros;705,29;Em aberto;Cartão débito
+28/08/2023;2023;Vidamed;Neurologia;Joaquim Giuseppe Materazzo;456,72;Cancelado;Boleto
+02/01/2024;2600;Vidamed;Clínica Geral;João Augusto dos Santos Vieira;780,56;Cancelado;Cheque
+04/08/2020;2039;UniClin;Clínica Geral;Marcela Ota Bonaventura;719,13;Cancelado;Cartão débito
+28/04/2020;2292;Vidamed;Clínica Geral;João Augusto dos Santos Vieira;729,65;Em aberto;Cartão débito
+15/03/2022;2120;ProntoCare;Clínica Geral;Marcela Ota Bonaventura;674,71;Pago;Boleto
+04/02/2024;2256;UniClin;Cardiologia;Raul Fontes de Barros;797,66;Pago;Boleto
+20/11/2020;2338;Saúde Total;Clínica Geral;João Augusto dos Santos Vieira;658,50;Pago;Cartão crédito
+28/08/2024;2953;Saúde Total;Cardiologia;Raul Fontes de Barros;487,18;Cancelado;Cartão crédito
+08/12/2020;2739;UniClin;Neurologia;Joaquim Giuseppe Materazzo;477,13;Pago;Cartão crédito
+08/09/2023;2883;UniClin;Clínica Geral;João Augusto dos Santos Vieira;721,88;Em aberto;Cheque
+01/09/2020;2957;ProntoCare;Clínica Geral;Marcela Ota Bonaventura;703,85;Cancelado;Boleto
+07/02/2023;2140;PlanClin;Clínica Geral;Marcela Ota Bonaventura;464,38;Em aberto;Cartão crédito
+11/11/2020;2266;PlanClin;Oftalmologia;Maria Amélia Freitas de Barros;679,81;Cancelado;Cartão crédito
+14/02/2022;2712;PlanClin;Cardiologia;Raul Fontes de Barros;787,29;Em aberto;Boleto
+13/10/2023;2589;PlanClin;Clínica Geral;João Augusto dos Santos Vieira;515,38;Em aberto;Cartão débito
+19/02/2023;2366;PlanClin;Clínica Geral;Marcela Ota Bonaventura;648,39;Cancelado;Boleto
+11/07/2023;2980;ProntoCare;Neurologia;Joaquim Giuseppe Materazzo;466,33;Em aberto;Pix
+28/01/2024;2673;PlanClin;Neurologia;Joaquim Giuseppe Materazzo;522,61;Pago;Boleto
+11/01/2024;2405;ProntoCare;Cardiologia;Raul Fontes de Barros;649,34;Em aberto;Boleto
+24/12/2022;2350;UniClin;Clínica Geral;João Augusto dos Santos Vieira;660,53;Em aberto;Pix
+10/11/2022;2991;ProntoCare;Cardiologia;Raul Fontes de Barros;729,71;Pago;Boleto
+23/12/2023;2558;ProntoCare;Oftalmologia;Maria Amélia Freitas de Barros;708,38;Em aberto;Cheque
+12/09/2023;2593;PlanClin;Oftalmologia;Maria Amélia Freitas de Barros;771,82;Cancelado;Cartão crédito
+20/03/2024;2019;ProntoCare;Clínica Geral;João Augusto dos Santos Vieira;691,87;Cancelado;Cartão crédito
+24/11/2020;2832;UniClin;Clínica Geral;João Augusto dos Santos Vieira;471,88;Pago;Cartão débito
+12/03/2020;2525;Saúde Total;Neurologia;Joaquim Giuseppe Materazzo;676,46;Pago;Cheque
+09/06/2023;2724;PlanClin;Cardiologia;Raul Fontes de Barros;438,25;Em aberto;Boleto
+08/04/2020;2026;UniClin;Oftalmologia;Maria Amélia Freitas de Barros;572,77;Em aberto;Cartão débito
+23/12/2022;2419;Vidamed;Oftalmologia;Maria Amélia Freitas de Barros;601,40;Pago;Pix
+07/10/2020;2387;PlanClin;Oftalmologia;Maria Amélia Freitas de Barros;667,48;Pago;Cheque
+19/07/2020;2159;Vidamed;Clínica Geral;João Augusto dos Santos Vieira;518,18;Em aberto;Boleto
+14/03/2024;2721;Saúde Total;Neurologia;Joaquim Giuseppe Materazzo;697,54;Em aberto;Cheque
+24/07/2021;2669;Saúde Total;Clínica Geral;João Augusto dos Santos Vieira;644,53;Pago;Cartão crédito
+22/10/2022;2191;ProntoCare;Oftalmologia;Maria Amélia Freitas de Barros;678,13;Pago;Cartão crédito
+03/09/2023;2594;PlanClin;Oftalmologia;Maria Amélia Freitas de Barros;477,72;Em aberto;Dinheiro
+10/12/2022;2820;Vidamed;Clínica Geral;Marcela Ota Bonaventura;585,66;Cancelado;Cheque
+17/07/2021;2465;Vidamed;Oftalmologia;Maria Amélia Freitas de Barros;534,71;Em aberto;Dinheiro
+16/06/2020;2748;Vidamed;Neurologia;Joaquim Giuseppe Materazzo;624,65;Cancelado;Dinheiro
+01/04/2021;2035;UniClin;Clínica Geral;João Augusto dos Santos Vieira;518,70;Cancelado;Cartão débito
+07/01/2023;2978;Vidamed;Clínica Geral;Marcela Ota Bonaventura;643,61;Pago;Cartão crédito
+20/02/2021;2266;Vidamed;Neurologia;Joaquim Giuseppe Materazzo;764,77;Pago;Pix
+09/03/2021;2273;Vidamed;Clínica Geral;Marcela Ota Bonaventura;574,58;Pago;Boleto
+19/09/2024;2671;PlanClin;Clínica Geral;Marcela Ota Bonaventura;689,82;Cancelado;Cartão débito
+16/09/2024;2826;Saúde Total;Neurologia;Joaquim Giuseppe Materazzo;518,37;Cancelado;Pix
+25/06/2022;2563;UniClin;Cardiologia;Raul Fontes de Barros;434,82;Pago;Cheque
+20/05/2024;2854;PlanClin;Cardiologia;Raul Fontes de Barros;513,56;Cancelado;Pix
+02/12/2020;2665;PlanClin;Cardiologia;Raul Fontes de Barros;727,63;Em aberto;Dinheiro
+14/03/2022;2603;UniClin;Clínica Geral;João Augusto dos Santos Vieira;751,62;Pago;Boleto
+19/10/2024;2216;Vidamed;Cardiologia;Raul Fontes de Barros;640,35;Em aberto;Boleto
+18/05/2021;2288;Saúde Total;Cardiologia;Raul Fontes de Barros;779,16;Pago;Dinheiro
+24/09/2024;2921;Vidamed;Cardiologia;Raul Fontes de Barros;588,38;Cancelado;Dinheiro
+22/08/2020;2241;PlanClin;Neurologia;Joaquim Giuseppe Materazzo;549,32;Cancelado;Cartão crédito
+09/11/2022;2788;ProntoCare;Neurologia;Joaquim Giuseppe Materazzo;617,75;Cancelado;Cheque
+14/03/2021;2271;Saúde Total;Clínica Geral;Marcela Ota Bonaventura;716,12;Pago;Boleto
+27/11/2024;2852;UniClin;Clínica Geral;João Augusto dos Santos Vieira;754,44;Pago;Cartão crédito
+10/02/2021;2826;UniClin;Cardiologia;Raul Fontes de Barros;665,32;Em aberto;Cartão crédito
+11/04/2020;2556;UniClin;Clínica Geral;João Augusto dos Santos Vieira;621,47;Cancelado;Pix
+11/01/2023;2902;PlanClin;Cardiologia;Raul Fontes de Barros;578,31;Em aberto;Dinheiro
+13/08/2021;2174;ProntoCare;Neurologia;Joaquim Giuseppe Materazzo;655,66;Pago;Boleto
+28/02/2022;2141;UniClin;Oftalmologia;Maria Amélia Freitas de Barros;755,38;Pago;Boleto
+27/07/2021;2087;Vidamed;Clínica Geral;Marcela Ota Bonaventura;448,66;Cancelado;Cartão débito
+16/09/2024;2927;PlanClin;Oftalmologia;Maria Amélia Freitas de Barros;549,33;Em aberto;Pix
+20/01/2021;2623;UniClin;Clínica Geral;Marcela Ota Bonaventura;769,89;Pago;Boleto
+11/09/2020;2135;ProntoCare;Neurologia;Joaquim Giuseppe Materazzo;708,81;Em aberto;Cartão crédito
+03/01/2024;2345;PlanClin;Clínica Geral;Marcela Ota Bonaventura;622,56;Em aberto;Dinheiro
+17/05/2023;2524;Saúde Total;Oftalmologia;Maria Amélia Freitas de Barros;760,34;Cancelado;Cartão crédito
+16/11/2023;2672;ProntoCare;Clínica Geral;Marcela Ota Bonaventura;722,62;Em aberto;Cheque
+03/10/2021;2476;PlanClin;Clínica Geral;João Augusto dos Santos Vieira;716,36;Em aberto;Cheque
+05/12/2020;2581;ProntoCare;Cardiologia;Raul Fontes de Barros;690,47;Em aberto;Boleto
+13/06/2021;2072;UniClin;Clínica Geral;João Augusto dos Santos Vieira;577,27;Em aberto;Dinheiro
+25/03/2021;2063;PlanClin;Clínica Geral;Marcela Ota Bonaventura;764,33;Pago;Cheque
+27/06/2020;2019;PlanClin;Oftalmologia;Maria Amélia Freitas de Barros;681,74;Em aberto;Boleto
+15/04/2022;2980;UniClin;Clínica Geral;João Augusto dos Santos Vieira;530,48;Pago;Boleto
+18/01/2020;2518;PlanClin;Clínica Geral;João Augusto dos Santos Vieira;542,86;Pago;Pix
+02/06/2022;2781;UniClin;Clínica Geral;Marcela Ota Bonaventura;542,59;Em aberto;Cheque
+06/04/2020;2036;PlanClin;Cardiologia;Raul Fontes de Barros;476,56;Pago;Cheque
+28/06/2022;2959;Saúde Total;Oftalmologia;Maria Amélia Freitas de Barros;496,31;Em aberto;Cartão crédito
+27/10/2022;2624;Saúde Total;Cardiologia;Raul Fontes de Barros;770,85;Cancelado;Pix
+24/04/2024;2714;Saúde Total;Neurologia;Joaquim Giuseppe Materazzo;598,62;Cancelado;Dinheiro
+25/05/2020;2713;PlanClin;Clínica Geral;Marcela Ota Bonaventura;694,35;Cancelado;Cheque
+13/04/2023;2805;Saúde Total;Oftalmologia;Maria Amélia Freitas de Barros;755,24;Em aberto;Cartão crédito
+11/05/2021;2534;Vidamed;Cardiologia;Raul Fontes de Barros;493,35;Em aberto;Boleto
+28/04/2020;2138;Saúde Total;Clínica Geral;João Augusto dos Santos Vieira;738,74;Cancelado;Cartão crédito
+14/12/2020;2647;PlanClin;Neurologia;Joaquim Giuseppe Materazzo;580,46;Em aberto;Pix
+27/10/2021;2018;UniClin;Cardiologia;Raul Fontes de Barros;746,53;Em aberto;Pix
+08/11/2024;2809;PlanClin;Neurologia;Joaquim Giuseppe Materazzo;509,47;Cancelado;Cartão crédito
+25/12/2021;2175;PlanClin;Clínica Geral;João Augusto dos Santos Vieira;455,83;Pago;Cartão crédito
+17/10/2022;2977;Saúde Total;Clínica Geral;Marcela Ota Bonaventura;443,57;Cancelado;Cheque
+22/02/2024;2393;Vidamed;Cardiologia;Raul Fontes de Barros;473,82;Em aberto;Cheque
+05/01/2021;2848;UniClin;Clínica Geral;Marcela Ota Bonaventura;520,88;Cancelado;Cheque
+13/06/2023;2115;Vidamed;Clínica Geral;João Augusto dos Santos Vieira;767,43;Cancelado;Cheque
+17/05/2020;2504;ProntoCare;Clínica Geral;João Augusto dos Santos Vieira;490,38;Cancelado;Cartão débito
+07/11/2024;2706;UniClin;Oftalmologia;Maria Amélia Freitas de Barros;749,46;Pago;Dinheiro
+09/08/2022;2357;ProntoCare;Clínica Geral;João Augusto dos Santos Vieira;747,88;Cancelado;Cartão débito
+26/02/2023;2332;UniClin;Neurologia;Joaquim Giuseppe Materazzo;617,79;Em aberto;Cheque
+12/11/2023;2453;ProntoCare;Cardiologia;Raul Fontes de Barros;597,46;Em aberto;Cheque
+21/07/2020;2850;Saúde Total;Cardiologia;Raul Fontes de Barros;694,86;Cancelado;Pix
+11/03/2021;2885;Saúde Total;Clínica Geral;João Augusto dos Santos Vieira;644,72;Em aberto;Pix
+16/02/2021;2842;Saúde Total;Neurologia;Joaquim Giuseppe Materazzo;613,56;Pago;Cartão débito
+04/05/2020;2155;Vidamed;Cardiologia;Raul Fontes de Barros;577,30;Pago;Cheque
+14/09/2020;2570;Vidamed;Cardiologia;Raul Fontes de Barros;564,46;Cancelado;Cartão débito
+08/05/2024;2256;Vidamed;Cardiologia;Raul Fontes de Barros;715,52;Pago;Cartão crédito
+03/07/2024;2910;PlanClin;Cardiologia;Raul Fontes de Barros;679,16;Em aberto;Cartão débito
+20/04/2024;2926;PlanClin;Oftalmologia;Maria Amélia Freitas de Barros;797,34;Pago;Boleto
+11/10/2022;2685;PlanClin;Clínica Geral;João Augusto dos Santos Vieira;634,21;Em aberto;Cartão débito
+18/12/2022;2430;ProntoCare;Oftalmologia;Maria Amélia Freitas de Barros;514,71;Pago;Cheque
+14/09/2024;2455;UniClin;Clínica Geral;João Augusto dos Santos Vieira;502,69;Pago;Cartão crédito
+08/10/2024;2459;UniClin;Neurologia;Joaquim Giuseppe Materazzo;641,16;Pago;Dinheiro
+18/03/2022;2977;UniClin;Clínica Geral;Marcela Ota Bonaventura;676,67;Pago;Dinheiro
+03/05/2020;2440;Vidamed;Clínica Geral;Marcela Ota Bonaventura;747,88;Cancelado;Cartão crédito
+16/02/2022;2979;UniClin;Clínica Geral;João Augusto dos Santos Vieira;765,30;Cancelado;Cartão crédito
+12/05/2022;2403;Saúde Total;Neurologia;Joaquim Giuseppe Materazzo;510,58;Em aberto;Pix
+04/08/2020;2156;ProntoCare;Cardiologia;Raul Fontes de Barros;482,68;Pago;Cheque
+11/10/2023;2551;UniClin;Clínica Geral;Marcela Ota Bonaventura;777,32;Pago;Pix
+06/04/2024;2245;UniClin;Clínica Geral;Marcela Ota Bonaventura;706,30;Cancelado;Pix
+08/02/2023;2632;UniClin;Neurologia;Joaquim Giuseppe Materazzo;723,62;Pago;Cheque
+24/12/2022;2181;UniClin;Clínica Geral;João Augusto dos Santos Vieira;652,64;Em aberto;Cheque
+21/11/2023;2988;Vidamed;Oftalmologia;Maria Amélia Freitas de Barros;767,16;Pago;Cheque
+02/08/2023;2000;Vidamed;Cardiologia;Raul Fontes de Barros;560,48;Cancelado;Cartão crédito
+18/07/2020;2090;UniClin;Clínica Geral;João Augusto dos Santos Vieira;522,35;Em aberto;Pix
+20/10/2020;2955;ProntoCare;Oftalmologia;Maria Amélia Freitas de Barros;637,32;Pago;Dinheiro
+05/03/2022;2260;PlanClin;Clínica Geral;Marcela Ota Bonaventura;729,54;Pago;Boleto
+16/12/2021;2573;Saúde Total;Cardiologia;Raul Fontes de Barros;797,84;Pago;Pix
+14/01/2024;2023;UniClin;Oftalmologia;Maria Amélia Freitas de Barros;637,19;Em aberto;Cartão débito
+18/09/2024;2871;PlanClin;Neurologia;Joaquim Giuseppe Materazzo;646,45;Cancelado;Pix
+12/03/2024;2618;UniClin;Neurologia;Joaquim Giuseppe Materazzo;434,58;Em aberto;Cartão débito
+14/05/2024;2373;Saúde Total;Clínica Geral;João Augusto dos Santos Vieira;708,86;Em aberto;Dinheiro
+06/02/2024;2512;ProntoCare;Clínica Geral;Marcela Ota Bonaventura;439,83;Pago;Cheque
+10/12/2020;2586;PlanClin;Cardiologia;Raul Fontes de Barros;490,38;Cancelado;Boleto
+01/04/2021;2806;UniClin;Neurologia;Joaquim Giuseppe Materazzo;630,89;Cancelado;Pix
+11/07/2021;2648;UniClin;Cardiologia;Raul Fontes de Barros;535,55;Em aberto;Dinheiro
+05/08/2021;2853;ProntoCare;Clínica Geral;Marcela Ota Bonaventura;646,46;Pago;Dinheiro
+09/06/2021;2495;Vidamed;Cardiologia;Raul Fontes de Barros;490,48;Em aberto;Cartão crédito
+03/09/2022;2173;UniClin;Clínica Geral;Marcela Ota Bonaventura;628,39;Em aberto;Boleto
+19/05/2024;2946;ProntoCare;Clínica Geral;João Augusto dos Santos Vieira;719,84;Em aberto;Pix
+23/08/2024;2932;ProntoCare;Cardiologia;Raul Fontes de Barros;783,46;Pago;Dinheiro
+06/06/2022;2440;Vidamed;Cardiologia;Raul Fontes de Barros;543,66;Cancelado;Dinheiro
+27/08/2021;2770;ProntoCare;Neurologia;Joaquim Giuseppe Materazzo;712,30;Pago;Boleto
+24/11/2021;2656;Saúde Total;Oftalmologia;Maria Amélia Freitas de Barros;720,58;Em aberto;Pix
+25/11/2022;2839;Saúde Total;Clínica Geral;Marcela Ota Bonaventura;607,13;Cancelado;Cheque
+13/01/2021;2671;PlanClin;Oftalmologia;Maria Amélia Freitas de Barros;759,34;Em aberto;Cartão crédito
+02/12/2020;2510;UniClin;Cardiologia;Raul Fontes de Barros;669,14;Pago;Cartão débito
+24/12/2023;2214;Saúde Total;Neurologia;Joaquim Giuseppe Materazzo;693,54;Cancelado;Cheque
+21/08/2022;2050;PlanClin;Neurologia;Joaquim Giuseppe Materazzo;642,66;Pago;Cheque
+15/10/2023;2797;UniClin;Cardiologia;Raul Fontes de Barros;484,34;Em aberto;Cartão débito
+02/06/2024;2479;UniClin;Cardiologia;Raul Fontes de Barros;472,39;Cancelado;Cartão débito
+22/10/2024;2834;UniClin;Cardiologia;Raul Fontes de Barros;612,74;Pago;Pix
+14/09/2020;2167;ProntoCare;Clínica Geral;João Augusto dos Santos Vieira;587,56;Pago;Pix
+27/08/2023;2083;PlanClin;Neurologia;Joaquim Giuseppe Materazzo;714,38;Em aberto;Cartão débito
+01/03/2021;2832;Saúde Total;Cardiologia;Raul Fontes de Barros;513,56;Cancelado;Boleto
+17/11/2021;2779;ProntoCare;Clínica Geral;Marcela Ota Bonaventura;500,70;Cancelado;Pix
+08/03/2021;2432;Vidamed;Clínica Geral;Marcela Ota Bonaventura;455,67;Pago;Cartão crédito
+14/07/2020;2677;UniClin;Oftalmologia;Maria Amélia Freitas de Barros;606,77;Pago;Dinheiro
+21/09/2020;2517;PlanClin;Clínica Geral;Marcela Ota Bonaventura;537,62;Pago;Cheque
+03/10/2020;2627;Vidamed;Clínica Geral;João Augusto dos Santos Vieira;497,89;Pago;Cartão crédito
+10/07/2021;2444;Saúde Total;Clínica Geral;Marcela Ota Bonaventura;629,19;Cancelado;Cartão débito
+09/05/2022;2929;PlanClin;Clínica Geral;João Augusto dos Santos Vieira;636,67;Cancelado;Cartão crédito
+20/06/2023;2787;ProntoCare;Neurologia;Joaquim Giuseppe Materazzo;653,86;Cancelado;Dinheiro
+26/09/2022;2980;UniClin;Clínica Geral;João Augusto dos Santos Vieira;744,76;Cancelado;Cheque
+24/07/2020;2735;Saúde Total;Clínica Geral;João Augusto dos Santos Vieira;662,77;Pago;Cartão débito
+22/09/2024;2517;Saúde Total;Neurologia;Joaquim Giuseppe Materazzo;472,45;Cancelado;Boleto
+05/08/2024;2868;Saúde Total;Oftalmologia;Maria Amélia Freitas de Barros;460,12;Pago;Boleto
+18/11/2020;2695;Saúde Total;Clínica Geral;Marcela Ota Bonaventura;579,64;Em aberto;Cartão crédito
+22/01/2023;2685;PlanClin;Cardiologia;Raul Fontes de Barros;765,67;Em aberto;Pix
+25/07/2023;2131;Saúde Total;Oftalmologia;Maria Amélia Freitas de Barros;784,54;Pago;Boleto
+06/06/2023;2517;Saúde Total;Cardiologia;Raul Fontes de Barros;754,45;Pago;Cartão crédito
+18/11/2022;2095;ProntoCare;Clínica Geral;João Augusto dos Santos Vieira;710,60;Em aberto;Dinheiro
+13/12/2020;2886;ProntoCare;Clínica Geral;João Augusto dos Santos Vieira;463,51;Em aberto;Cartão crédito
+15/06/2023;2826;PlanClin;Oftalmologia;Maria Amélia Freitas de Barros;494,68;Cancelado;Boleto
+12/06/2021;2632;PlanClin;Oftalmologia;Maria Amélia Freitas de Barros;438,34;Pago;Pix
+20/04/2022;2652;UniClin;Cardiologia;Raul Fontes de Barros;501,47;Pago;Cartão débito
+27/11/2020;2193;PlanClin;Cardiologia;Raul Fontes de Barros;511,71;Pago;Pix
+16/10/2020;2340;UniClin;Neurologia;Joaquim Giuseppe Materazzo;669,56;Em aberto;Cheque
+07/01/2023;2120;PlanClin;Clínica Geral;Marcela Ota Bonaventura;707,28;Cancelado;Dinheiro
+17/01/2024;2063;Vidamed;Neurologia;Joaquim Giuseppe Materazzo;560,55;Cancelado;Cartão débito
+12/11/2020;2929;ProntoCare;Neurologia;Joaquim Giuseppe Materazzo;455,25;Em aberto;Pix
+04/10/2024;2604;UniClin;Neurologia;Joaquim Giuseppe Materazzo;667,81;Em aberto;Pix
+01/10/2024;2725;UniClin;Neurologia;Joaquim Giuseppe Materazzo;464,83;Em aberto;Cartão crédito
+02/02/2020;2363;Vidamed;Clínica Geral;Marcela Ota Bonaventura;782,46;Pago;Pix
+10/07/2020;2262;PlanClin;Clínica Geral;João Augusto dos Santos Vieira;729,69;Cancelado;Cartão débito
+22/03/2022;2839;Saúde Total;Oftalmologia;Maria Amélia Freitas de Barros;739,19;Em aberto;Cartão crédito
+20/07/2023;2146;PlanClin;Clínica Geral;João Augusto dos Santos Vieira;476,61;Pago;Pix
+23/01/2020;2739;ProntoCare;Cardiologia;Raul Fontes de Barros;516,79;Cancelado;Pix
+22/02/2022;2766;ProntoCare;Cardiologia;Raul Fontes de Barros;528,47;Em aberto;Cartão crédito
+01/12/2021;2467;PlanClin;Cardiologia;Raul Fontes de Barros;554,44;Pago;Cheque
+06/10/2022;2323;Saúde Total;Oftalmologia;Maria Amélia Freitas de Barros;751,79;Cancelado;Pix
+16/07/2023;2276;UniClin;Cardiologia;Raul Fontes de Barros;610,70;Em aberto;Cartão crédito
+10/08/2021;2699;ProntoCare;Clínica Geral;Marcela Ota Bonaventura;779,48;Em aberto;Cheque
+18/03/2023;2447;ProntoCare;Clínica Geral;João Augusto dos Santos Vieira;742,84;Pago;Cartão crédito
+28/12/2020;2837;Saúde Total;Neurologia;Joaquim Giuseppe Materazzo;697,65;Pago;Cartão débito
+04/12/2020;2257;UniClin;Oftalmologia;Maria Amélia Freitas de Barros;695,16;Cancelado;Boleto
+27/05/2022;2250;Vidamed;Neurologia;Joaquim Giuseppe Materazzo;624,45;Em aberto;Pix
+15/10/2022;2108;ProntoCare;Cardiologia;Raul Fontes de Barros;702,52;Cancelado;Pix
+09/11/2024;2210;UniClin;Oftalmologia;Maria Amélia Freitas de Barros;643,59;Pago;Boleto
+11/06/2023;2748;Vidamed;Neurologia;Joaquim Giuseppe Materazzo;671,25;Pago;Cartão crédito
+21/05/2021;2826;Vidamed;Cardiologia;Raul Fontes de Barros;658,85;Pago;Cartão débito
+12/12/2023;2225;ProntoCare;Clínica Geral;João Augusto dos Santos Vieira;502,82;Em aberto;Cartão débito
+20/09/2023;2963;Vidamed;Oftalmologia;Maria Amélia Freitas de Barros;791,60;Cancelado;Dinheiro
+22/04/2022;2035;Vidamed;Clínica Geral;João Augusto dos Santos Vieira;762,79;Cancelado;Pix
+02/03/2024;2356;UniClin;Clínica Geral;Marcela Ota Bonaventura;440,44;Em aberto;Dinheiro
+19/11/2022;2264;UniClin;Clínica Geral;Marcela Ota Bonaventura;446,69;Pago;Cheque
+04/03/2020;2897;PlanClin;Neurologia;Joaquim Giuseppe Materazzo;781,28;Cancelado;Pix
+07/03/2022;2645;Saúde Total;Oftalmologia;Maria Amélia Freitas de Barros;611,82;Pago;Dinheiro
+10/02/2020;2932;PlanClin;Clínica Geral;João Augusto dos Santos Vieira;459,50;Em aberto;Dinheiro
+16/03/2020;2024;UniClin;Cardiologia;Raul Fontes de Barros;716,30;Pago;Cartão débito
+25/09/2021;2885;Vidamed;Oftalmologia;Maria Amélia Freitas de Barros;525,19;Cancelado;Dinheiro
+03/04/2020;2986;UniClin;Cardiologia;Raul Fontes de Barros;711,15;Cancelado;Boleto
+13/02/2024;2834;Vidamed;Clínica Geral;João Augusto dos Santos Vieira;490,86;Pago;Pix
+12/04/2024;2201;PlanClin;Oftalmologia;Maria Amélia Freitas de Barros;597,84;Cancelado;Pix
+23/02/2024;2003;Saúde Total;Clínica Geral;João Augusto dos Santos Vieira;675,52;Pago;Cartão débito
+05/12/2020;2514;ProntoCare;Neurologia;Joaquim Giuseppe Materazzo;784,74;Cancelado;Cartão débito
+19/05/2020;2890;Vidamed;Neurologia;Joaquim Giuseppe Materazzo;633,36;Em aberto;Cartão débito
+15/07/2022;2245;Vidamed;Oftalmologia;Maria Amélia Freitas de Barros;566,20;Cancelado;Pix
+22/02/2023;2410;ProntoCare;Cardiologia;Raul Fontes de Barros;617,77;Cancelado;Pix
+23/01/2022;2260;Saúde Total;Neurologia;Joaquim Giuseppe Materazzo;495,28;Cancelado;Cheque
+14/04/2023;2411;ProntoCare;Clínica Geral;João Augusto dos Santos Vieira;692,43;Em aberto;Dinheiro
+09/10/2022;2749;ProntoCare;Neurologia;Joaquim Giuseppe Materazzo;574,82;Em aberto;Boleto
+18/09/2021;2746;ProntoCare;Clínica Geral;João Augusto dos Santos Vieira;625,58;Pago;Pix
+23/11/2023;2708;Saúde Total;Neurologia;Joaquim Giuseppe Materazzo;639,28;Em aberto;Boleto
+26/06/2020;2959;UniClin;Oftalmologia;Maria Amélia Freitas de Barros;485,74;Em aberto;Dinheiro
+25/11/2023;2677;Vidamed;Oftalmologia;Maria Amélia Freitas de Barros;436,26;Pago;Cartão crédito
+27/12/2024;2348;ProntoCare;Neurologia;Joaquim Giuseppe Materazzo;525,57;Em aberto;Dinheiro
+04/01/2023;2887;UniClin;Clínica Geral;João Augusto dos Santos Vieira;690,87;Em aberto;Cheque
+18/03/2021;2381;ProntoCare;Neurologia;Joaquim Giuseppe Materazzo;644,42;Cancelado;Cartão débito
+01/09/2024;2966;ProntoCare;Clínica Geral;João Augusto dos Santos Vieira;747,48;Cancelado;Cheque
+18/07/2021;2201;ProntoCare;Clínica Geral;João Augusto dos Santos Vieira;491,29;Em aberto;Cartão crédito
+17/12/2020;2338;Saúde Total;Neurologia;Joaquim Giuseppe Materazzo;653,49;Cancelado;Cartão crédito
+25/06/2024;2771;Vidamed;Clínica Geral;Marcela Ota Bonaventura;593,35;Em aberto;Dinheiro
+09/06/2023;2848;Vidamed;Neurologia;Joaquim Giuseppe Materazzo;533,51;Em aberto;Cartão crédito
+01/10/2023;2482;PlanClin;Neurologia;Joaquim Giuseppe Materazzo;491,60;Pago;Cartão débito
+11/01/2022;2289;Saúde Total;Neurologia;Joaquim Giuseppe Materazzo;522,27;Cancelado;Cartão débito
+22/12/2023;2676;Vidamed;Neurologia;Joaquim Giuseppe Materazzo;792,68;Cancelado;Boleto
+22/12/2022;2144;PlanClin;Clínica Geral;João Augusto dos Santos Vieira;528,48;Em aberto;Boleto
+01/06/2022;2382;ProntoCare;Cardiologia;Raul Fontes de Barros;572,89;Em aberto;Cartão crédito
+03/01/2022;2236;Saúde Total;Oftalmologia;Maria Amélia Freitas de Barros;654,58;Pago;Cartão crédito
+05/06/2024;2830;UniClin;Oftalmologia;Maria Amélia Freitas de Barros;451,14;Pago;Dinheiro
+21/05/2021;2122;Vidamed;Clínica Geral;João Augusto dos Santos Vieira;712,34;Cancelado;Boleto
+14/02/2020;2465;Saúde Total;Cardiologia;Raul Fontes de Barros;449,49;Cancelado;Cartão débito
+27/11/2020;2745;Saúde Total;Neurologia;Joaquim Giuseppe Materazzo;727,41;Pago;Dinheiro
+01/10/2024;2662;PlanClin;Neurologia;Joaquim Giuseppe Materazzo;585,13;Pago;Cartão crédito
+28/05/2023;2391;ProntoCare;Clínica Geral;João Augusto dos Santos Vieira;485,59;Cancelado;Pix
+27/12/2021;2259;Saúde Total;Clínica Geral;João Augusto dos Santos Vieira;453,24;Em aberto;Cheque
+18/01/2021;2880;PlanClin;Clínica Geral;Marcela Ota Bonaventura;512,43;Pago;Cartão débito
+02/08/2021;2891;Vidamed;Oftalmologia;Maria Amélia Freitas de Barros;619,44;Pago;Pix
+06/01/2022;2933;ProntoCare;Oftalmologia;Maria Amélia Freitas de Barros;641,44;Em aberto;Cartão crédito
+09/06/2024;2804;PlanClin;Neurologia;Joaquim Giuseppe Materazzo;478,74;Em aberto;Dinheiro
+17/10/2020;2137;Vidamed;Clínica Geral;João Augusto dos Santos Vieira;592,60;Em aberto;Boleto
+09/12/2021;2495;UniClin;Neurologia;Joaquim Giuseppe Materazzo;660,18;Em aberto;Cartão crédito
+23/02/2023;2418;Vidamed;Oftalmologia;Maria Amélia Freitas de Barros;726,62;Cancelado;Cheque
+13/04/2022;2222;UniClin;Clínica Geral;João Augusto dos Santos Vieira;594,43;Pago;Dinheiro
+21/02/2022;2437;UniClin;Cardiologia;Raul Fontes de Barros;673,62;Pago;Boleto
+05/05/2024;2353;Vidamed;Cardiologia;Raul Fontes de Barros;445,88;Cancelado;Cheque
+07/12/2020;2600;Saúde Total;Cardiologia;Raul Fontes de Barros;571,41;Cancelado;Dinheiro
+02/02/2021;2915;Vidamed;Oftalmologia;Maria Amélia Freitas de Barros;439,58;Pago;Cartão crédito
+05/09/2021;2125;ProntoCare;Cardiologia;Raul Fontes de Barros;602,22;Em aberto;Dinheiro
+20/02/2020;2951;ProntoCare;Clínica Geral;João Augusto dos Santos Vieira;487,20;Em aberto;Cartão crédito
+25/07/2023;2928;Saúde Total;Neurologia;Joaquim Giuseppe Materazzo;637,86;Pago;Cartão crédito
+24/09/2020;2991;PlanClin;Clínica Geral;João Augusto dos Santos Vieira;744,18;Pago;Dinheiro
+27/08/2021;2551;ProntoCare;Cardiologia;Raul Fontes de Barros;674,78;Pago;Cartão débito
+22/09/2024;2028;PlanClin;Clínica Geral;Marcela Ota Bonaventura;778,74;Em aberto;Dinheiro
+20/10/2023;2133;PlanClin;Clínica Geral;João Augusto dos Santos Vieira;754,81;Em aberto;Dinheiro
+25/02/2024;2462;PlanClin;Cardiologia;Raul Fontes de Barros;545,77;Em aberto;Cartão crédito
+05/01/2020;2444;ProntoCare;Neurologia;Joaquim Giuseppe Materazzo;653,75;Em aberto;Pix
+20/04/2023;2515;Saúde Total;Clínica Geral;Marcela Ota Bonaventura;616,75;Pago;Dinheiro
+15/11/2023;2687;PlanClin;Clínica Geral;João Augusto dos Santos Vieira;433,52;Em aberto;Pix
+11/04/2021;2332;ProntoCare;Neurologia;Joaquim Giuseppe Materazzo;471,42;Em aberto;Cartão débito
+22/11/2024;2005;PlanClin;Oftalmologia;Maria Amélia Freitas de Barros;732,73;Pago;Cartão débito
+25/08/2023;2707;Vidamed;Oftalmologia;Maria Amélia Freitas de Barros;682,39;Em aberto;Cartão débito
+26/08/2020;2219;ProntoCare;Oftalmologia;Maria Amélia Freitas de Barros;755,24;Em aberto;Pix
+07/04/2023;2184;ProntoCare;Oftalmologia;Maria Amélia Freitas de Barros;486,86;Cancelado;Cheque
+04/09/2024;2175;PlanClin;Clínica Geral;João Augusto dos Santos Vieira;605,46;Cancelado;Cartão débito
+01/11/2024;2529;PlanClin;Cardiologia;Raul Fontes de Barros;492,54;Pago;Cheque
+23/11/2022;2995;PlanClin;Cardiologia;Raul Fontes de Barros;776,77;Em aberto;Cheque
+06/05/2021;2055;Vidamed;Clínica Geral;João Augusto dos Santos Vieira;536,68;Pago;Dinheiro
+22/03/2020;2833;ProntoCare;Clínica Geral;João Augusto dos Santos Vieira;463,81;Em aberto;Cartão débito
+19/09/2022;2706;PlanClin;Neurologia;Joaquim Giuseppe Materazzo;710,34;Pago;Boleto
+19/09/2024;2765;ProntoCare;Clínica Geral;Marcela Ota Bonaventura;510,41;Em aberto;Dinheiro
+25/01/2024;2540;Vidamed;Clínica Geral;João Augusto dos Santos Vieira;639,78;Em aberto;Pix
+25/08/2023;2937;ProntoCare;Neurologia;Joaquim Giuseppe Materazzo;499,28;Em aberto;Cartão crédito
+22/10/2021;2021;UniClin;Clínica Geral;Marcela Ota Bonaventura;533,75;Cancelado;Cheque
+13/10/2021;2898;Saúde Total;Clínica Geral;João Augusto dos Santos Vieira;475,61;Em aberto;Cartão crédito
+04/07/2024;2657;UniClin;Clínica Geral;Marcela Ota Bonaventura;777,53;Pago;Dinheiro
+16/03/2024;2832;PlanClin;Oftalmologia;Maria Amélia Freitas de Barros;772,87;Em aberto;Dinheiro
+17/08/2021;2607;Vidamed;Clínica Geral;João Augusto dos Santos Vieira;716,24;Pago;Pix
+03/11/2023;2274;Saúde Total;Clínica Geral;João Augusto dos Santos Vieira;483,43;Em aberto;Boleto
+12/08/2023;2238;Vidamed;Cardiologia;Raul Fontes de Barros;583,19;Cancelado;Dinheiro
+19/11/2020;2638;UniClin;Cardiologia;Raul Fontes de Barros;789,69;Em aberto;Cheque
+12/06/2024;2913;ProntoCare;Clínica Geral;Marcela Ota Bonaventura;778,47;Pago;Cartão débito
+18/04/2020;2911;Vidamed;Neurologia;Joaquim Giuseppe Materazzo;573,55;Em aberto;Pix
+02/04/2020;2852;PlanClin;Cardiologia;Raul Fontes de Barros;580,77;Cancelado;Pix
+16/08/2020;2180;Saúde Total;Clínica Geral;Marcela Ota Bonaventura;749,75;Cancelado;Pix
+15/01/2021;2485;Saúde Total;Neurologia;Joaquim Giuseppe Materazzo;689,13;Pago;Dinheiro
+03/08/2020;2319;ProntoCare;Clínica Geral;João Augusto dos Santos Vieira;759,33;Pago;Dinheiro
+01/10/2021;2838;Vidamed;Cardiologia;Raul Fontes de Barros;765,39;Em aberto;Boleto
+20/01/2022;2023;Vidamed;Oftalmologia;Maria Amélia Freitas de Barros;757,65;Cancelado;Cheque
+16/07/2023;2468;PlanClin;Clínica Geral;João Augusto dos Santos Vieira;602,23;Cancelado;Dinheiro
+18/08/2024;2899;UniClin;Clínica Geral;João Augusto dos Santos Vieira;728,13;Cancelado;Pix
+19/09/2020;2243;Saúde Total;Clínica Geral;João Augusto dos Santos Vieira;598,79;Pago;Cheque
+09/04/2022;2780;Vidamed;Clínica Geral;João Augusto dos Santos Vieira;727,33;Cancelado;Cartão crédito
+10/05/2024;2069;UniClin;Clínica Geral;João Augusto dos Santos Vieira;710,89;Em aberto;Dinheiro
+25/11/2024;2229;ProntoCare;Clínica Geral;Marcela Ota Bonaventura;637,57;Pago;Dinheiro
+15/02/2024;2470;Saúde Total;Clínica Geral;Marcela Ota Bonaventura;537,57;Pago;Boleto
+16/04/2020;2336;Saúde Total;Neurologia;Joaquim Giuseppe Materazzo;687,26;Em aberto;Cartão crédito
+14/12/2020;2826;Saúde Total;Neurologia;Joaquim Giuseppe Materazzo;697,48;Cancelado;Dinheiro
+12/04/2023;2174;Saúde Total;Clínica Geral;João Augusto dos Santos Vieira;706,26;Cancelado;Cartão crédito
+21/02/2023;2498;UniClin;Cardiologia;Raul Fontes de Barros;433,52;Cancelado;Cartão débito
+27/08/2021;2442;UniClin;Clínica Geral;Marcela Ota Bonaventura;455,55;Em aberto;Cartão débito
+19/07/2021;2559;Saúde Total;Clínica Geral;Marcela Ota Bonaventura;672,57;Pago;Cartão débito
+27/02/2022;2735;PlanClin;Cardiologia;Raul Fontes de Barros;726,12;Em aberto;Dinheiro
+01/04/2020;2770;UniClin;Oftalmologia;Maria Amélia Freitas de Barros;460,78;Em aberto;Dinheiro
+03/09/2021;2407;ProntoCare;Neurologia;Joaquim Giuseppe Materazzo;576,86;Em aberto;Cartão débito
+13/08/2023;2860;UniClin;Neurologia;Joaquim Giuseppe Materazzo;626,79;Cancelado;Cartão débito
+02/01/2023;2911;Vidamed;Oftalmologia;Maria Amélia Freitas de Barros;517,79;Em aberto;Cartão crédito
+13/10/2020;2349;UniClin;Clínica Geral;Marcela Ota Bonaventura;788,53;Pago;Dinheiro
+14/03/2021;2074;ProntoCare;Clínica Geral;João Augusto dos Santos Vieira;731,36;Cancelado;Cartão débito
+16/06/2020;2936;ProntoCare;Neurologia;Joaquim Giuseppe Materazzo;493,21;Pago;Boleto
+25/12/2021;2792;ProntoCare;Neurologia;Joaquim Giuseppe Materazzo;504,46;Em aberto;Cartão débito
+11/04/2024;2612;Vidamed;Oftalmologia;Maria Amélia Freitas de Barros;517,22;Em aberto;Cartão débito
+23/12/2021;2542;PlanClin;Cardiologia;Raul Fontes de Barros;513,85;Pago;Dinheiro
+27/02/2023;2107;Saúde Total;Neurologia;Joaquim Giuseppe Materazzo;481,61;Pago;Pix
+25/02/2024;2364;UniClin;Neurologia;Joaquim Giuseppe Materazzo;629,32;Cancelado;Boleto
+08/07/2023;2624;Vidamed;Clínica Geral;João Augusto dos Santos Vieira;758,87;Em aberto;Cartão débito
+25/08/2020;2503;Vidamed;Clínica Geral;João Augusto dos Santos Vieira;699,23;Em aberto;Cartão débito
+22/01/2021;2950;Saúde Total;Clínica Geral;Marcela Ota Bonaventura;602,39;Pago;Dinheiro
+12/06/2021;2452;UniClin;Clínica Geral;João Augusto dos Santos Vieira;652,56;Em aberto;Cartão débito
+07/08/2023;2009;ProntoCare;Clínica Geral;João Augusto dos Santos Vieira;722,37;Cancelado;Cheque
+21/03/2024;2766;ProntoCare;Neurologia;Joaquim Giuseppe Materazzo;712,64;Em aberto;Pix
+20/11/2022;2666;UniClin;Oftalmologia;Maria Amélia Freitas de Barros;600,77;Pago;Cartão débito
+23/01/2024;2205;Vidamed;Neurologia;Joaquim Giuseppe Materazzo;724,76;Cancelado;Cheque
+13/10/2023;2053;PlanClin;Clínica Geral;Marcela Ota Bonaventura;610,82;Pago;Cheque
+16/03/2021;2782;Saúde Total;Neurologia;Joaquim Giuseppe Materazzo;572,25;Em aberto;Dinheiro
+11/09/2022;2822;Saúde Total;Cardiologia;Raul Fontes de Barros;556,12;Cancelado;Boleto
+17/11/2023;2619;PlanClin;Clínica Geral;Marcela Ota Bonaventura;515,69;Pago;Pix
+06/01/2024;2123;Saúde Total;Cardiologia;Raul Fontes de Barros;761,22;Pago;Pix
+15/11/2020;2223;PlanClin;Oftalmologia;Maria Amélia Freitas de Barros;629,74;Em aberto;Cartão débito
+17/01/2021;2677;Saúde Total;Oftalmologia;Maria Amélia Freitas de Barros;556,19;Pago;Boleto
+19/08/2024;2214;UniClin;Clínica Geral;Marcela Ota Bonaventura;608,74;Pago;Dinheiro
+07/06/2020;2570;UniClin;Cardiologia;Raul Fontes de Barros;436,36;Em aberto;Pix
+25/12/2023;2163;UniClin;Clínica Geral;Marcela Ota Bonaventura;773,20;Em aberto;Boleto
+16/02/2024;2161;Vidamed;Neurologia;Joaquim Giuseppe Materazzo;696,58;Em aberto;Cartão crédito
+22/06/2024;2399;Saúde Total;Clínica Geral;Marcela Ota Bonaventura;604,26;Em aberto;Cartão débito
+22/03/2021;2019;Saúde Total;Neurologia;Joaquim Giuseppe Materazzo;661,40;Cancelado;Pix
+16/09/2022;2048;Vidamed;Neurologia;Joaquim Giuseppe Materazzo;484,28;Em aberto;Pix
+25/06/2021;2131;PlanClin;Cardiologia;Raul Fontes de Barros;528,22;Em aberto;Cartão débito
+10/08/2023;2102;Vidamed;Clínica Geral;João Augusto dos Santos Vieira;563,71;Pago;Pix
+04/04/2020;2244;Vidamed;Clínica Geral;Marcela Ota Bonaventura;546,81;Cancelado;Cheque
+08/01/2024;2333;PlanClin;Clínica Geral;Marcela Ota Bonaventura;509,56;Pago;Cartão débito
+07/07/2022;2778;Saúde Total;Cardiologia;Raul Fontes de Barros;613,16;Em aberto;Cartão débito
+15/08/2023;2178;Saúde Total;Clínica Geral;João Augusto dos Santos Vieira;526,26;Cancelado;Cartão débito
+05/06/2024;2658;Saúde Total;Cardiologia;Raul Fontes de Barros;691,43;Pago;Boleto
+02/08/2024;2554;Vidamed;Oftalmologia;Maria Amélia Freitas de Barros;523,25;Pago;Boleto
+03/03/2024;2613;ProntoCare;Clínica Geral;João Augusto dos Santos Vieira;521,89;Em aberto;Cartão crédito
+02/09/2020;2548;Vidamed;Clínica Geral;Marcela Ota Bonaventura;532,75;Cancelado;Cartão crédito
+02/03/2021;2751;ProntoCare;Cardiologia;Raul Fontes de Barros;474,68;Cancelado;Cartão crédito
+13/04/2021;2035;ProntoCare;Clínica Geral;Marcela Ota Bonaventura;469,19;Cancelado;Cartão débito
+22/02/2023;2874;UniClin;Clínica Geral;João Augusto dos Santos Vieira;460,55;Pago;Boleto
+28/09/2023;2706;Saúde Total;Cardiologia;Raul Fontes de Barros;674,72;Cancelado;Dinheiro
+19/03/2020;2161;Saúde Total;Oftalmologia;Maria Amélia Freitas de Barros;628,29;Pago;Cheque
+03/02/2024;2623;Saúde Total;Oftalmologia;Maria Amélia Freitas de Barros;718,26;Em aberto;Cartão crédito
+04/04/2020;2141;ProntoCare;Cardiologia;Raul Fontes de Barros;764,45;Pago;Cartão crédito
+12/06/2024;2493;PlanClin;Oftalmologia;Maria Amélia Freitas de Barros;458,22;Em aberto;Dinheiro
+23/11/2024;2561;ProntoCare;Clínica Geral;Marcela Ota Bonaventura;700,12;Em aberto;Cheque
+28/12/2021;2457;PlanClin;Clínica Geral;Marcela Ota Bonaventura;697,36;Pago;Boleto
+13/06/2021;2081;UniClin;Cardiologia;Raul Fontes de Barros;620,84;Pago;Cartão crédito
+12/03/2024;2657;UniClin;Oftalmologia;Maria Amélia Freitas de Barros;695,46;Em aberto;Cartão crédito
+10/04/2020;2945;UniClin;Clínica Geral;Marcela Ota Bonaventura;770,31;Pago;Pix
+19/04/2024;2820;ProntoCare;Cardiologia;Raul Fontes de Barros;786,60;Em aberto;Pix
+03/05/2022;2859;Vidamed;Clínica Geral;João Augusto dos Santos Vieira;542,37;Em aberto;Cheque
+21/06/2021;2310;ProntoCare;Neurologia;Joaquim Giuseppe Materazzo;732,77;Cancelado;Pix
+21/02/2020;2708;Vidamed;Oftalmologia;Maria Amélia Freitas de Barros;620,84;Em aberto;Cartão crédito
+04/07/2024;2280;ProntoCare;Cardiologia;Raul Fontes de Barros;729,61;Cancelado;Boleto
+13/09/2024;2968;PlanClin;Oftalmologia;Maria Amélia Freitas de Barros;667,51;Pago;Cheque
+25/11/2023;2443;PlanClin;Cardiologia;Raul Fontes de Barros;526,66;Pago;Cartão crédito
+13/09/2024;2455;Saúde Total;Clínica Geral;Marcela Ota Bonaventura;588,32;Pago;Cartão crédito
+03/01/2020;2554;Saúde Total;Neurologia;Joaquim Giuseppe Materazzo;443,75;Em aberto;Cartão crédito
+25/01/2021;2258;Vidamed;Oftalmologia;Maria Amélia Freitas de Barros;796,32;Em aberto;Pix
+20/10/2023;2118;UniClin;Cardiologia;Raul Fontes de Barros;540,62;Pago;Boleto
+21/09/2020;2289;UniClin;Oftalmologia;Maria Amélia Freitas de Barros;650,46;Pago;Cartão débito
+11/08/2024;2931;ProntoCare;Neurologia;Joaquim Giuseppe Materazzo;516,72;Em aberto;Dinheiro
+07/09/2024;2653;Saúde Total;Oftalmologia;Maria Amélia Freitas de Barros;559,82;Pago;Cartão débito
+08/04/2020;2600;Saúde Total;Clínica Geral;João Augusto dos Santos Vieira;754,83;Pago;Cartão débito
+08/07/2022;2245;PlanClin;Oftalmologia;Maria Amélia Freitas de Barros;670,20;Pago;Dinheiro
+22/12/2023;2447;UniClin;Clínica Geral;João Augusto dos Santos Vieira;597,17;Pago;Cartão débito
+07/01/2021;2749;PlanClin;Clínica Geral;João Augusto dos Santos Vieira;503,82;Em aberto;Dinheiro
+24/06/2020;2535;Saúde Total;Clínica Geral;Marcela Ota Bonaventura;696,28;Cancelado;Pix
+22/04/2021;2698;UniClin;Oftalmologia;Maria Amélia Freitas de Barros;712,45;Pago;Cartão débito
+12/10/2023;2744;PlanClin;Cardiologia;Raul Fontes de Barros;514,63;Pago;Boleto
+03/05/2021;2645;Vidamed;Cardiologia;Raul Fontes de Barros;447,25;Cancelado;Pix
+13/01/2022;2254;PlanClin;Oftalmologia;Maria Amélia Freitas de Barros;690,52;Em aberto;Dinheiro
+28/02/2020;2943;PlanClin;Neurologia;Joaquim Giuseppe Materazzo;681,33;Pago;Cartão crédito
+13/01/2023;2928;ProntoCare;Neurologia;Joaquim Giuseppe Materazzo;496,70;Em aberto;Cartão crédito
+08/04/2020;2654;Saúde Total;Clínica Geral;João Augusto dos Santos Vieira;454,49;Pago;Pix
+05/03/2022;2787;Saúde Total;Clínica Geral;João Augusto dos Santos Vieira;519,59;Cancelado;Cheque
+10/10/2023;2833;PlanClin;Clínica Geral;Marcela Ota Bonaventura;582,76;Em aberto;Boleto
+04/02/2021;2665;UniClin;Cardiologia;Raul Fontes de Barros;582,50;Em aberto;Cartão crédito
+15/08/2020;2053;ProntoCare;Clínica Geral;João Augusto dos Santos Vieira;514,55;Cancelado;Cartão débito
+08/11/2023;2836;ProntoCare;Clínica Geral;Marcela Ota Bonaventura;729,68;Em aberto;Cheque
+27/12/2024;2948;Saúde Total;Clínica Geral;João Augusto dos Santos Vieira;469,49;Em aberto;Cheque
+08/05/2021;2027;PlanClin;Clínica Geral;Marcela Ota Bonaventura;695,18;Cancelado;Pix
+02/08/2020;2640;Saúde Total;Clínica Geral;João Augusto dos Santos Vieira;501,71;Pago;Pix
+17/01/2020;2527;Saúde Total;Oftalmologia;Maria Amélia Freitas de Barros;791,69;Em aberto;Dinheiro
+12/04/2024;2350;Vidamed;Clínica Geral;Marcela Ota Bonaventura;476,53;Cancelado;Cartão crédito
+26/09/2022;2504;Saúde Total;Neurologia;Joaquim Giuseppe Materazzo;696,47;Em aberto;Cartão débito
+07/06/2020;2086;Vidamed;Clínica Geral;Marcela Ota Bonaventura;607,56;Cancelado;Cartão débito
+15/04/2024;2112;PlanClin;Clínica Geral;João Augusto dos Santos Vieira;682,59;Cancelado;Pix
+13/04/2024;2616;UniClin;Clínica Geral;Marcela Ota Bonaventura;558,68;Cancelado;Dinheiro
+26/10/2022;2851;UniClin;Neurologia;Joaquim Giuseppe Materazzo;501,60;Cancelado;Boleto
+15/10/2022;2631;Vidamed;Neurologia;Joaquim Giuseppe Materazzo;535,42;Cancelado;Boleto
+22/06/2024;2633;ProntoCare;Clínica Geral;João Augusto dos Santos Vieira;656,23;Pago;Dinheiro
+22/03/2022;2975;PlanClin;Cardiologia;Raul Fontes de Barros;644,80;Em aberto;Cartão débito
+18/01/2021;2307;ProntoCare;Clínica Geral;Marcela Ota Bonaventura;695,45;Cancelado;Cartão crédito
+25/02/2023;2724;Vidamed;Clínica Geral;João Augusto dos Santos Vieira;524,52;Cancelado;Pix
+01/04/2023;2304;UniClin;Clínica Geral;Marcela Ota Bonaventura;730,75;Pago;Cheque
+03/10/2024;2087;Vidamed;Clínica Geral;Marcela Ota Bonaventura;749,25;Cancelado;Pix
+15/12/2022;2705;ProntoCare;Clínica Geral;João Augusto dos Santos Vieira;647,39;Cancelado;Boleto
+04/09/2024;2719;Vidamed;Neurologia;Joaquim Giuseppe Materazzo;439,55;Em aberto;Boleto
+14/02/2021;2089;Saúde Total;Neurologia;Joaquim Giuseppe Materazzo;780,54;Em aberto;Dinheiro
+25/02/2020;2550;ProntoCare;Oftalmologia;Maria Amélia Freitas de Barros;707,58;Cancelado;Cheque
+20/06/2020;2042;PlanClin;Oftalmologia;Maria Amélia Freitas de Barros;511,28;Em aberto;Dinheiro
+14/02/2024;2195;ProntoCare;Cardiologia;Raul Fontes de Barros;588,69;Cancelado;Boleto
+15/11/2022;2312;Saúde Total;Clínica Geral;Marcela Ota Bonaventura;690,39;Em aberto;Cheque
+06/01/2024;2386;UniClin;Cardiologia;Raul Fontes de Barros;710,37;Cancelado;Pix
+06/04/2022;2096;Saúde Total;Clínica Geral;Marcela Ota Bonaventura;479,30;Cancelado;Pix
+28/01/2020;2003;Saúde Total;Clínica Geral;João Augusto dos Santos Vieira;609,72;Pago;Cartão crédito
+21/12/2022;2291;Vidamed;Clínica Geral;Marcela Ota Bonaventura;768,74;Cancelado;Pix
+28/12/2020;2908;Saúde Total;Clínica Geral;João Augusto dos Santos Vieira;682,46;Pago;Cartão crédito
+01/11/2021;2069;Vidamed;Neurologia;Joaquim Giuseppe Materazzo;720,37;Em aberto;Cartão crédito
+22/07/2020;2330;ProntoCare;Clínica Geral;João Augusto dos Santos Vieira;551,47;Em aberto;Dinheiro
+17/12/2024;2214;Vidamed;Clínica Geral;João Augusto dos Santos Vieira;629,51;Pago;Cartão crédito
+26/06/2022;2637;Vidamed;Oftalmologia;Maria Amélia Freitas de Barros;674,80;Cancelado;Cheque
+09/07/2022;2565;Vidamed;Oftalmologia;Maria Amélia Freitas de Barros;715,28;Pago;Boleto
+06/11/2022;2094;Vidamed;Clínica Geral;João Augusto dos Santos Vieira;520,16;Pago;Boleto
+21/05/2020;2110;Saúde Total;Clínica Geral;Marcela Ota Bonaventura;591,62;Pago;Cheque
+18/11/2021;2807;Saúde Total;Neurologia;Joaquim Giuseppe Materazzo;503,51;Pago;Cartão crédito
+21/02/2023;2158;PlanClin;Cardiologia;Raul Fontes de Barros;618,59;Em aberto;Cartão débito
+17/02/2022;2178;Vidamed;Neurologia;Joaquim Giuseppe Materazzo;565,57;Em aberto;Cartão débito
+04/04/2021;2268;UniClin;Clínica Geral;João Augusto dos Santos Vieira;696,19;Cancelado;Cartão crédito
+03/12/2020;2775;PlanClin;Clínica Geral;João Augusto dos Santos Vieira;462,68;Pago;Cartão crédito
+10/03/2023;2672;PlanClin;Clínica Geral;João Augusto dos Santos Vieira;604,74;Em aberto;Cheque
+09/05/2023;2488;UniClin;Clínica Geral;João Augusto dos Santos Vieira;714,14;Cancelado;Boleto
+20/10/2023;2462;UniClin;Oftalmologia;Maria Amélia Freitas de Barros;587,14;Pago;Boleto
+08/05/2023;2563;UniClin;Cardiologia;Raul Fontes de Barros;751,81;Pago;Boleto
+11/06/2024;2974;Vidamed;Oftalmologia;Maria Amélia Freitas de Barros;783,87;Pago;Dinheiro
+09/01/2020;2880;ProntoCare;Clínica Geral;Marcela Ota Bonaventura;706,65;Cancelado;Pix
+04/11/2022;2316;ProntoCare;Clínica Geral;João Augusto dos Santos Vieira;673,12;Em aberto;Cheque
+22/02/2023;2383;PlanClin;Oftalmologia;Maria Amélia Freitas de Barros;526,72;Em aberto;Pix
+15/02/2023;2652;Saúde Total;Clínica Geral;João Augusto dos Santos Vieira;517,46;Pago;Cartão crédito
+05/07/2020;2640;Vidamed;Cardiologia;Raul Fontes de Barros;514,57;Em aberto;Dinheiro
+05/04/2021;2226;Vidamed;Clínica Geral;Marcela Ota Bonaventura;649,24;Pago;Boleto
+25/02/2020;2328;ProntoCare;Clínica Geral;Marcela Ota Bonaventura;717,41;Em aberto;Pix
+21/08/2021;2397;PlanClin;Cardiologia;Raul Fontes de Barros;536,69;Pago;Cheque
+22/05/2021;2904;Saúde Total;Clínica Geral;Marcela Ota Bonaventura;717,31;Pago;Cheque
+01/11/2024;2427;UniClin;Cardiologia;Raul Fontes de Barros;433,58;Cancelado;Cartão débito
+25/12/2021;2543;Saúde Total;Oftalmologia;Maria Amélia Freitas de Barros;490,35;Cancelado;Boleto
+17/11/2020;2332;ProntoCare;Neurologia;Joaquim Giuseppe Materazzo;615,74;Pago;Cartão débito
+02/03/2020;2284;UniClin;Oftalmologia;Maria Amélia Freitas de Barros;661,89;Cancelado;Cartão crédito
+20/01/2020;2319;Saúde Total;Cardiologia;Raul Fontes de Barros;553,57;Cancelado;Boleto
+21/02/2021;2646;ProntoCare;Clínica Geral;João Augusto dos Santos Vieira;649,80;Pago;Dinheiro
+27/08/2023;2734;PlanClin;Clínica Geral;Marcela Ota Bonaventura;650,17;Em aberto;Cheque
+21/11/2022;2080;UniClin;Clínica Geral;Marcela Ota Bonaventura;458,74;Em aberto;Cartão débito
+07/09/2024;2848;Saúde Total;Oftalmologia;Maria Amélia Freitas de Barros;597,42;Cancelado;Pix
+03/08/2020;2784;ProntoCare;Clínica Geral;João Augusto dos Santos Vieira;649,56;Em aberto;Cheque
+02/11/2024;2374;PlanClin;Clínica Geral;João Augusto dos Santos Vieira;483,19;Pago;Cheque
+26/01/2021;2967;UniClin;Cardiologia;Raul Fontes de Barros;522,77;Em aberto;Boleto
+22/02/2021;2590;PlanClin;Clínica Geral;João Augusto dos Santos Vieira;587,56;Pago;Dinheiro
+21/06/2021;2881;Vidamed;Cardiologia;Raul Fontes de Barros;627,87;Pago;Cartão crédito
+26/09/2024;2018;Saúde Total;Clínica Geral;Marcela Ota Bonaventura;478,43;Cancelado;Cartão débito
+13/08/2024;2295;PlanClin;Clínica Geral;João Augusto dos Santos Vieira;588,34;Pago;Cheque
+01/03/2023;2156;Vidamed;Cardiologia;Raul Fontes de Barros;599,64;Cancelado;Boleto
+22/05/2020;2019;Vidamed;Clínica Geral;João Augusto dos Santos Vieira;680,41;Pago;Pix
+18/09/2022;2709;Saúde Total;Neurologia;Joaquim Giuseppe Materazzo;556,83;Pago;Dinheiro
+10/09/2024;2458;PlanClin;Cardiologia;Raul Fontes de Barros;693,72;Em aberto;Cartão crédito
+02/04/2023;2461;Saúde Total;Clínica Geral;João Augusto dos Santos Vieira;645,32;Em aberto;Cartão crédito
+28/12/2024;2983;ProntoCare;Clínica Geral;João Augusto dos Santos Vieira;774,77;Cancelado;Pix
+26/01/2023;2621;UniClin;Oftalmologia;Maria Amélia Freitas de Barros;676,75;Pago;Cartão débito
+26/06/2022;2796;Saúde Total;Clínica Geral;João Augusto dos Santos Vieira;756,23;Cancelado;Pix
+02/11/2021;2856;ProntoCare;Oftalmologia;Maria Amélia Freitas de Barros;554,37;Pago;Boleto
+15/04/2024;2391;Saúde Total;Neurologia;Joaquim Giuseppe Materazzo;553,75;Em aberto;Cheque
+27/09/2020;2665;PlanClin;Clínica Geral;Marcela Ota Bonaventura;515,25;Pago;Boleto
+25/09/2023;2704;UniClin;Cardiologia;Raul Fontes de Barros;580,41;Em aberto;Pix
+16/06/2023;2234;PlanClin;Oftalmologia;Maria Amélia Freitas de Barros;525,40;Pago;Cartão débito
+15/04/2024;2368;ProntoCare;Neurologia;Joaquim Giuseppe Materazzo;568,39;Cancelado;Cheque
+08/04/2021;2344;Saúde Total;Clínica Geral;Marcela Ota Bonaventura;625,40;Em aberto;Boleto
+14/10/2023;2853;PlanClin;Clínica Geral;Marcela Ota Bonaventura;475,35;Em aberto;Cheque
+14/04/2021;2087;PlanClin;Oftalmologia;Maria Amélia Freitas de Barros;609,76;Pago;Boleto
+16/05/2020;2841;ProntoCare;Clínica Geral;Marcela Ota Bonaventura;612,38;Em aberto;Dinheiro
+26/02/2023;2732;PlanClin;Clínica Geral;João Augusto dos Santos Vieira;569,78;Pago;Boleto
+25/06/2021;2127;ProntoCare;Cardiologia;Raul Fontes de Barros;524,69;Cancelado;Boleto
+16/09/2022;2752;UniClin;Clínica Geral;Marcela Ota Bonaventura;552,81;Cancelado;Dinheiro
+20/11/2020;2037;UniClin;Clínica Geral;Marcela Ota Bonaventura;775,87;Pago;Dinheiro
+13/05/2022;2209;Vidamed;Clínica Geral;João Augusto dos Santos Vieira;521,12;Pago;Boleto
+21/10/2022;2957;ProntoCare;Neurologia;Joaquim Giuseppe Materazzo;791,33;Pago;Cartão crédito
+23/01/2022;2025;Vidamed;Clínica Geral;João Augusto dos Santos Vieira;777,51;Em aberto;Dinheiro
+18/08/2020;2136;ProntoCare;Clínica Geral;Marcela Ota Bonaventura;591,18;Cancelado;Cartão débito
+05/02/2024;2919;ProntoCare;Clínica Geral;João Augusto dos Santos Vieira;485,13;Cancelado;Cartão débito
+25/12/2020;2245;UniClin;Clínica Geral;Marcela Ota Bonaventura;744,72;Em aberto;Dinheiro
+24/04/2024;2341;UniClin;Cardiologia;Raul Fontes de Barros;572,25;Cancelado;Pix
+16/10/2024;2942;PlanClin;Cardiologia;Raul Fontes de Barros;567,37;Cancelado;Boleto
+17/09/2020;2709;UniClin;Clínica Geral;João Augusto dos Santos Vieira;669,72;Pago;Cheque
+19/09/2024;2203;PlanClin;Neurologia;Joaquim Giuseppe Materazzo;518,85;Em aberto;Cheque
+16/03/2021;2654;ProntoCare;Clínica Geral;Marcela Ota Bonaventura;547,46;Cancelado;Cheque
+25/04/2021;2257;Vidamed;Clínica Geral;João Augusto dos Santos Vieira;682,42;Pago;Cheque
+19/05/2024;2973;UniClin;Cardiologia;Raul Fontes de Barros;704,51;Pago;Dinheiro
+13/06/2024;2432;Vidamed;Neurologia;Joaquim Giuseppe Materazzo;553,25;Pago;Cartão crédito
+08/05/2020;2008;Saúde Total;Neurologia;Joaquim Giuseppe Materazzo;639,75;Em aberto;Pix
+27/06/2022;2665;ProntoCare;Clínica Geral;Marcela Ota Bonaventura;708,70;Em aberto;Pix
+12/04/2020;2379;ProntoCare;Clínica Geral;João Augusto dos Santos Vieira;564,44;Pago;Cheque
+01/05/2023;2356;ProntoCare;Neurologia;Joaquim Giuseppe Materazzo;624,54;Em aberto;Cartão débito
+14/03/2021;2184;PlanClin;Clínica Geral;João Augusto dos Santos Vieira;664,84;Pago;Dinheiro
+06/11/2021;2639;PlanClin;Cardiologia;Raul Fontes de Barros;641,22;Cancelado;Cheque
+18/01/2024;2953;ProntoCare;Clínica Geral;João Augusto dos Santos Vieira;671,21;Em aberto;Dinheiro
+08/12/2024;2221;UniClin;Neurologia;Joaquim Giuseppe Materazzo;566,39;Em aberto;Cheque
+06/09/2024;2085;Saúde Total;Neurologia;Joaquim Giuseppe Materazzo;489,76;Em aberto;Cartão crédito
+05/04/2022;2981;UniClin;Oftalmologia;Maria Amélia Freitas de Barros;641,53;Em aberto;Pix
+15/02/2023;2838;PlanClin;Clínica Geral;Marcela Ota Bonaventura;502,82;Pago;Cheque
+12/06/2024;2179;ProntoCare;Oftalmologia;Maria Amélia Freitas de Barros;733,57;Pago;Pix
+10/12/2023;2197;ProntoCare;Clínica Geral;Marcela Ota Bonaventura;578,33;Em aberto;Cartão crédito
+11/06/2020;2540;ProntoCare;Clínica Geral;João Augusto dos Santos Vieira;609,87;Cancelado;Boleto
+19/03/2020;2651;Saúde Total;Clínica Geral;Marcela Ota Bonaventura;456,86;Cancelado;Cheque
+01/03/2020;2833;Saúde Total;Neurologia;Joaquim Giuseppe Materazzo;697,54;Cancelado;Dinheiro
+14/11/2022;2885;ProntoCare;Clínica Geral;Marcela Ota Bonaventura;782,32;Cancelado;Dinheiro
+28/10/2020;2367;UniClin;Oftalmologia;Maria Amélia Freitas de Barros;778,13;Cancelado;Dinheiro
+03/11/2022;2369;Saúde Total;Oftalmologia;Maria Amélia Freitas de Barros;744,63;Em aberto;Cheque
+10/11/2022;2454;ProntoCare;Neurologia;Joaquim Giuseppe Materazzo;757,66;Pago;Boleto
+01/03/2024;2976;UniClin;Clínica Geral;Marcela Ota Bonaventura;675,64;Pago;Boleto
+19/11/2022;2304;ProntoCare;Clínica Geral;João Augusto dos Santos Vieira;488,40;Em aberto;Cartão crédito
+08/02/2022;2634;PlanClin;Oftalmologia;Maria Amélia Freitas de Barros;690,44;Cancelado;Dinheiro
+09/03/2021;2704;UniClin;Oftalmologia;Maria Amélia Freitas de Barros;445,51;Cancelado;Boleto
+08/10/2021;2285;PlanClin;Clínica Geral;João Augusto dos Santos Vieira;683,61;Em aberto;Pix
+06/01/2022;2385;Saúde Total;Cardiologia;Raul Fontes de Barros;579,49;Em aberto;Cartão débito
+13/02/2021;2460;Saúde Total;Oftalmologia;Maria Amélia Freitas de Barros;630,85;Em aberto;Pix
+14/11/2024;2875;Vidamed;Oftalmologia;Maria Amélia Freitas de Barros;762,31;Em aberto;Cartão crédito
+22/06/2022;2513;PlanClin;Cardiologia;Raul Fontes de Barros;491,15;Cancelado;Pix
+19/03/2022;2833;PlanClin;Oftalmologia;Maria Amélia Freitas de Barros;500,38;Pago;Dinheiro
+11/10/2021;2128;PlanClin;Clínica Geral;Marcela Ota Bonaventura;566,66;Pago;Pix
+14/01/2024;2155;ProntoCare;Cardiologia;Raul Fontes de Barros;444,23;Pago;Cheque
+03/08/2020;2483;Vidamed;Oftalmologia;Maria Amélia Freitas de Barros;506,54;Cancelado;Cartão débito
+07/08/2024;2221;ProntoCare;Neurologia;Joaquim Giuseppe Materazzo;738,65;Em aberto;Cartão débito
+08/12/2022;2388;Saúde Total;Oftalmologia;Maria Amélia Freitas de Barros;493,71;Pago;Cartão crédito
+01/01/2021;2863;PlanClin;Clínica Geral;Marcela Ota Bonaventura;539,27;Cancelado;Cartão crédito
+03/09/2021;2074;ProntoCare;Neurologia;Joaquim Giuseppe Materazzo;672,58;Em aberto;Cheque
+08/02/2021;2591;UniClin;Clínica Geral;Marcela Ota Bonaventura;674,22;Pago;Cheque
+09/06/2022;2736;Saúde Total;Cardiologia;Raul Fontes de Barros;656,64;Pago;Cartão crédito
+23/01/2024;2843;ProntoCare;Clínica Geral;Marcela Ota Bonaventura;795,14;Em aberto;Boleto
+02/08/2020;2354;Vidamed;Neurologia;Joaquim Giuseppe Materazzo;446,27;Cancelado;Cartão débito
+25/05/2021;2471;Saúde Total;Clínica Geral;João Augusto dos Santos Vieira;603,73;Pago;Cartão crédito
+13/03/2023;2212;UniClin;Neurologia;Joaquim Giuseppe Materazzo;623,53;Cancelado;Cartão débito
+22/11/2020;2367;UniClin;Oftalmologia;Maria Amélia Freitas de Barros;576,23;Cancelado;Boleto
+06/02/2020;2102;ProntoCare;Neurologia;Joaquim Giuseppe Materazzo;444,55;Cancelado;Cartão débito
+13/05/2023;2192;UniClin;Neurologia;Joaquim Giuseppe Materazzo;694,56;Em aberto;Pix
+17/10/2020;2914;Vidamed;Neurologia;Joaquim Giuseppe Materazzo;490,18;Cancelado;Cartão débito
+21/10/2020;2197;PlanClin;Clínica Geral;João Augusto dos Santos Vieira;695,34;Em aberto;Boleto
+12/11/2023;2629;Vidamed;Cardiologia;Raul Fontes de Barros;616,65;Pago;Cartão débito
+15/07/2020;2138;PlanClin;Oftalmologia;Maria Amélia Freitas de Barros;574,88;Cancelado;Cartão crédito
+20/10/2023;2514;UniClin;Oftalmologia;Maria Amélia Freitas de Barros;449,59;Cancelado;Cartão débito
+08/09/2024;2919;UniClin;Cardiologia;Raul Fontes de Barros;700,34;Cancelado;Cheque
+04/07/2021;2959;PlanClin;Clínica Geral;Marcela Ota Bonaventura;569,79;Cancelado;Dinheiro
+06/11/2020;2070;Vidamed;Oftalmologia;Maria Amélia Freitas de Barros;646,59;Cancelado;Cheque
+19/02/2024;2174;UniClin;Clínica Geral;João Augusto dos Santos Vieira;668,12;Cancelado;Pix
+19/11/2023;2914;ProntoCare;Clínica Geral;Marcela Ota Bonaventura;751,51;Cancelado;Cartão débito
+09/12/2022;2233;ProntoCare;Oftalmologia;Maria Amélia Freitas de Barros;677,22;Em aberto;Cartão crédito
+24/10/2022;2144;Vidamed;Cardiologia;Raul Fontes de Barros;658,60;Pago;Cartão débito
+13/04/2020;2173;UniClin;Clínica Geral;João Augusto dos Santos Vieira;580,28;Pago;Pix
+07/05/2022;2860;ProntoCare;Neurologia;Joaquim Giuseppe Materazzo;724,30;Pago;Boleto
+24/04/2020;2529;Vidamed;Neurologia;Joaquim Giuseppe Materazzo;635,45;Cancelado;Pix
+09/04/2024;2198;Vidamed;Neurologia;Joaquim Giuseppe Materazzo;679,44;Em aberto;Cartão crédito
+15/11/2020;2620;ProntoCare;Neurologia;Joaquim Giuseppe Materazzo;624,29;Pago;Dinheiro
+09/08/2021;2019;PlanClin;Clínica Geral;Marcela Ota Bonaventura;702,20;Cancelado;Cartão crédito
+03/06/2024;2683;Vidamed;Oftalmologia;Maria Amélia Freitas de Barros;715,40;Em aberto;Boleto
+27/09/2024;2254;PlanClin;Clínica Geral;Marcela Ota Bonaventura;758,17;Em aberto;Dinheiro
+05/02/2021;2207;UniClin;Oftalmologia;Maria Amélia Freitas de Barros;744,75;Em aberto;Pix
+17/04/2022;2343;Saúde Total;Clínica Geral;João Augusto dos Santos Vieira;766,74;Em aberto;Cheque
+02/10/2023;2276;PlanClin;Clínica Geral;João Augusto dos Santos Vieira;787,27;Pago;Dinheiro
+07/11/2024;2827;ProntoCare;Clínica Geral;João Augusto dos Santos Vieira;558,29;Em aberto;Dinheiro
+18/06/2021;2145;Saúde Total;Cardiologia;Raul Fontes de Barros;567,18;Cancelado;Cartão crédito
+17/10/2023;2223;Saúde Total;Clínica Geral;Marcela Ota Bonaventura;763,70;Em aberto;Cartão crédito
+10/05/2023;2676;Vidamed;Oftalmologia;Maria Amélia Freitas de Barros;600,72;Pago;Dinheiro
+07/01/2023;2484;Vidamed;Clínica Geral;João Augusto dos Santos Vieira;715,64;Cancelado;Dinheiro
+21/09/2024;2191;UniClin;Clínica Geral;João Augusto dos Santos Vieira;766,37;Em aberto;Dinheiro
+15/09/2024;2889;ProntoCare;Oftalmologia;Maria Amélia Freitas de Barros;437,85;Cancelado;Boleto
+28/11/2023;2782;Saúde Total;Oftalmologia;Maria Amélia Freitas de Barros;557,60;Em aberto;Pix
+20/04/2022;2333;ProntoCare;Cardiologia;Raul Fontes de Barros;758,81;Pago;Cartão crédito
+14/07/2024;2179;Vidamed;Cardiologia;Raul Fontes de Barros;615,64;Em aberto;Pix
+13/11/2023;2554;UniClin;Cardiologia;Raul Fontes de Barros;461,79;Pago;Dinheiro
+09/08/2022;2375;Saúde Total;Clínica Geral;Marcela Ota Bonaventura;689,66;Cancelado;Dinheiro
+07/06/2024;2742;PlanClin;Clínica Geral;João Augusto dos Santos Vieira;472,66;Pago;Boleto
+17/09/2020;2853;ProntoCare;Oftalmologia;Maria Amélia Freitas de Barros;453,15;Em aberto;Cartão crédito
+02/03/2022;2394;Saúde Total;Oftalmologia;Maria Amélia Freitas de Barros;490,36;Cancelado;Cartão crédito
+26/02/2021;2433;Vidamed;Cardiologia;Raul Fontes de Barros;512,21;Cancelado;Boleto
+09/07/2021;2343;ProntoCare;Cardiologia;Raul Fontes de Barros;503,21;Em aberto;Boleto
+14/04/2023;2145;Vidamed;Clínica Geral;João Augusto dos Santos Vieira;750,19;Em aberto;Cartão crédito
+14/02/2022;2602;Saúde Total;Cardiologia;Raul Fontes de Barros;754,48;Pago;Boleto
+12/07/2021;2938;ProntoCare;Cardiologia;Raul Fontes de Barros;542,88;Em aberto;Dinheiro
+22/07/2022;2757;UniClin;Oftalmologia;Maria Amélia Freitas de Barros;526,66;Em aberto;Cartão débito
+28/10/2023;2106;ProntoCare;Neurologia;Joaquim Giuseppe Materazzo;697,89;Em aberto;Cartão crédito
+12/06/2024;2264;PlanClin;Clínica Geral;João Augusto dos Santos Vieira;616,33;Cancelado;Pix
+25/10/2020;2818;UniClin;Neurologia;Joaquim Giuseppe Materazzo;520,72;Em aberto;Boleto
+18/08/2020;2864;UniClin;Cardiologia;Raul Fontes de Barros;643,29;Cancelado;Cartão crédito
+04/10/2020;2150;Saúde Total;Clínica Geral;João Augusto dos Santos Vieira;599,59;Em aberto;Cheque
+22/02/2022;2531;ProntoCare;Clínica Geral;Marcela Ota Bonaventura;433,65;Cancelado;Cheque
+10/02/2021;2147;PlanClin;Clínica Geral;João Augusto dos Santos Vieira;754,52;Pago;Cartão crédito
+26/03/2020;2028;ProntoCare;Neurologia;Joaquim Giuseppe Materazzo;704,52;Pago;Cartão crédito
+28/05/2020;2629;Saúde Total;Clínica Geral;Marcela Ota Bonaventura;785,31;Em aberto;Cheque
+11/07/2023;2117;ProntoCare;Clínica Geral;Marcela Ota Bonaventura;741,22;Pago;Pix
+12/05/2020;2070;Vidamed;Neurologia;Joaquim Giuseppe Materazzo;535,15;Em aberto;Cartão débito
+04/03/2020;2917;PlanClin;Oftalmologia;Maria Amélia Freitas de Barros;758,29;Cancelado;Boleto
+22/04/2024;2549;PlanClin;Neurologia;Joaquim Giuseppe Materazzo;616,71;Em aberto;Boleto
+25/12/2022;2992;PlanClin;Clínica Geral;Marcela Ota Bonaventura;504,87;Cancelado;Cartão débito
+24/09/2022;2311;Vidamed;Neurologia;Joaquim Giuseppe Materazzo;659,66;Em aberto;Boleto
+15/05/2022;2532;Saúde Total;Clínica Geral;Marcela Ota Bonaventura;742,41;Pago;Cartão débito
+22/10/2020;2554;PlanClin;Clínica Geral;Marcela Ota Bonaventura;497,48;Cancelado;Boleto
+20/03/2023;2500;PlanClin;Clínica Geral;João Augusto dos Santos Vieira;459,89;Cancelado;Boleto
+17/02/2021;2763;UniClin;Oftalmologia;Maria Amélia Freitas de Barros;757,56;Cancelado;Cartão débito
+06/03/2021;2239;UniClin;Clínica Geral;João Augusto dos Santos Vieira;561,52;Em aberto;Pix
+22/12/2021;2554;Saúde Total;Neurologia;Joaquim Giuseppe Materazzo;654,53;Cancelado;Cartão débito
+07/12/2020;2848;Saúde Total;Oftalmologia;Maria Amélia Freitas de Barros;793,68;Em aberto;Cartão crédito
+20/01/2023;2957;ProntoCare;Cardiologia;Raul Fontes de Barros;781,21;Em aberto;Pix
+26/10/2024;2241;Vidamed;Cardiologia;Raul Fontes de Barros;736,21;Em aberto;Dinheiro
+26/05/2022;2572;ProntoCare;Oftalmologia;Maria Amélia Freitas de Barros;522,51;Cancelado;Boleto
+20/08/2023;2820;Saúde Total;Clínica Geral;Marcela Ota Bonaventura;566,19;Cancelado;Cartão crédito
+15/02/2021;2776;UniClin;Neurologia;Joaquim Giuseppe Materazzo;694,23;Pago;Dinheiro
+11/03/2021;2918;UniClin;Oftalmologia;Maria Amélia Freitas de Barros;523,89;Em aberto;Cartão crédito
+23/11/2024;2010;Saúde Total;Clínica Geral;João Augusto dos Santos Vieira;797,54;Cancelado;Cheque
+13/07/2022;2331;Saúde Total;Clínica Geral;João Augusto dos Santos Vieira;650,14;Cancelado;Cheque
+13/05/2020;2093;PlanClin;Clínica Geral;Marcela Ota Bonaventura;503,35;Em aberto;Cheque
+28/07/2022;2997;Saúde Total;Clínica Geral;João Augusto dos Santos Vieira;506,29;Cancelado;Pix
+20/06/2024;2276;Saúde Total;Clínica Geral;Marcela Ota Bonaventura;592,56;Em aberto;Cartão débito
+12/06/2024;2969;PlanClin;Oftalmologia;Maria Amélia Freitas de Barros;737,65;Em aberto;Boleto
+13/03/2021;2848;Saúde Total;Clínica Geral;Marcela Ota Bonaventura;517,79;Em aberto;Cheque
+10/10/2024;2837;Saúde Total;Clínica Geral;João Augusto dos Santos Vieira;673,86;Em aberto;Boleto
+21/07/2024;2616;ProntoCare;Cardiologia;Raul Fontes de Barros;461,53;Em aberto;Cheque
+17/05/2020;2101;UniClin;Neurologia;Joaquim Giuseppe Materazzo;716,78;Pago;Dinheiro
+06/10/2022;2271;ProntoCare;Neurologia;Joaquim Giuseppe Materazzo;642,24;Pago;Dinheiro
+19/02/2020;2740;Saúde Total;Neurologia;Joaquim Giuseppe Materazzo;767,81;Cancelado;Cartão crédito
+21/05/2020;2988;UniClin;Cardiologia;Raul Fontes de Barros;734,27;Cancelado;Pix
+05/12/2022;2878;Vidamed;Clínica Geral;Marcela Ota Bonaventura;485,72;Em aberto;Cheque
+03/10/2024;2303;Vidamed;Cardiologia;Raul Fontes de Barros;701,30;Em aberto;Boleto
+07/10/2023;2639;UniClin;Cardiologia;Raul Fontes de Barros;692,77;Cancelado;Boleto
+16/12/2020;2446;Vidamed;Oftalmologia;Maria Amélia Freitas de Barros;522,49;Pago;Cheque
+13/08/2020;2878;PlanClin;Clínica Geral;João Augusto dos Santos Vieira;737,87;Em aberto;Dinheiro
+15/05/2023;2321;Saúde Total;Clínica Geral;João Augusto dos Santos Vieira;455,16;Pago;Pix
+04/10/2024;2579;UniClin;Clínica Geral;Marcela Ota Bonaventura;453,71;Pago;Pix
+16/06/2023;2884;UniClin;Clínica Geral;Marcela Ota Bonaventura;613,25;Pago;Cartão crédito
+27/02/2020;2780;Saúde Total;Clínica Geral;Marcela Ota Bonaventura;547,46;Em aberto;Cartão crédito
+01/11/2022;2582;Vidamed;Clínica Geral;João Augusto dos Santos Vieira;561,51;Em aberto;Cartão crédito
+11/10/2024;2775;Vidamed;Clínica Geral;João Augusto dos Santos Vieira;481,28;Em aberto;Boleto
+12/02/2023;2728;ProntoCare;Clínica Geral;Marcela Ota Bonaventura;606,38;Em aberto;Cartão débito
+10/12/2024;2246;Vidamed;Oftalmologia;Maria Amélia Freitas de Barros;637,81;Cancelado;Cartão crédito
+08/10/2022;2993;Saúde Total;Cardiologia;Raul Fontes de Barros;639,27;Cancelado;Cartão débito
+17/09/2023;2972;ProntoCare;Clínica Geral;Marcela Ota Bonaventura;571,70;Pago;Boleto
+05/10/2021;2270;UniClin;Cardiologia;Raul Fontes de Barros;577,67;Pago;Dinheiro
+24/05/2020;2680;UniClin;Neurologia;Joaquim Giuseppe Materazzo;471,85;Cancelado;Pix
+04/05/2020;2141;Saúde Total;Clínica Geral;João Augusto dos Santos Vieira;534,27;Pago;Boleto
+16/05/2024;2009;Vidamed;Cardiologia;Raul Fontes de Barros;732,17;Pago;Boleto
+19/09/2023;2981;ProntoCare;Cardiologia;Raul Fontes de Barros;795,69;Pago;Cartão crédito
+13/01/2020;2384;UniClin;Clínica Geral;João Augusto dos Santos Vieira;440,38;Em aberto;Boleto
+05/02/2024;2956;Saúde Total;Oftalmologia;Maria Amélia Freitas de Barros;588,54;Pago;Cartão débito
+10/07/2020;2530;ProntoCare;Oftalmologia;Maria Amélia Freitas de Barros;768,88;Pago;Cartão débito
+28/04/2021;2537;ProntoCare;Clínica Geral;Marcela Ota Bonaventura;600,29;Cancelado;Cartão débito
+14/04/2021;2423;UniClin;Clínica Geral;Marcela Ota Bonaventura;743,42;Em aberto;Dinheiro
+22/08/2021;2557;UniClin;Neurologia;Joaquim Giuseppe Materazzo;626,51;Cancelado;Cheque
+24/02/2021;2589;Saúde Total;Clínica Geral;João Augusto dos Santos Vieira;744,85;Cancelado;Dinheiro
+01/12/2020;2909;UniClin;Oftalmologia;Maria Amélia Freitas de Barros;600,74;Em aberto;Pix
+28/08/2023;2616;Saúde Total;Oftalmologia;Maria Amélia Freitas de Barros;704,81;Em aberto;Cartão crédito
+06/03/2022;2652;ProntoCare;Cardiologia;Raul Fontes de Barros;699,34;Cancelado;Cartão crédito
+09/01/2021;2184;Vidamed;Oftalmologia;Maria Amélia Freitas de Barros;543,21;Cancelado;Boleto
+08/09/2022;2518;Vidamed;Clínica Geral;João Augusto dos Santos Vieira;662,25;Pago;Dinheiro
+01/07/2022;2119;ProntoCare;Oftalmologia;Maria Amélia Freitas de Barros;547,44;Cancelado;Dinheiro
+02/05/2022;2011;ProntoCare;Clínica Geral;Marcela Ota Bonaventura;588,47;Em aberto;Pix
+27/05/2022;2641;UniClin;Clínica Geral;João Augusto dos Santos Vieira;480,16;Cancelado;Dinheiro
+13/01/2022;2318;Vidamed;Cardiologia;Raul Fontes de Barros;440,36;Cancelado;Boleto
+05/11/2020;2059;ProntoCare;Cardiologia;Raul Fontes de Barros;726,76;Em aberto;Dinheiro
+01/02/2023;2672;UniClin;Cardiologia;Raul Fontes de Barros;630,27;Pago;Cheque
+23/09/2024;2629;Saúde Total;Cardiologia;Raul Fontes de Barros;576,25;Cancelado;Boleto
+03/09/2023;2526;Vidamed;Clínica Geral;Marcela Ota Bonaventura;564,58;Pago;Cheque
+24/04/2021;2146;PlanClin;Clínica Geral;Marcela Ota Bonaventura;791,26;Pago;Cartão débito
+03/08/2020;2830;UniClin;Oftalmologia;Maria Amélia Freitas de Barros;563,51;Cancelado;Cartão crédito
+19/05/2024;2172;UniClin;Clínica Geral;João Augusto dos Santos Vieira;660,28;Em aberto;Boleto
+06/02/2022;2530;Vidamed;Clínica Geral;João Augusto dos Santos Vieira;783,50;Cancelado;Cheque
+07/07/2020;2609;Vidamed;Cardiologia;Raul Fontes de Barros;639,24;Em aberto;Boleto
+21/07/2024;2551;PlanClin;Neurologia;Joaquim Giuseppe Materazzo;609,30;Cancelado;Pix
+28/07/2024;2796;PlanClin;Cardiologia;Raul Fontes de Barros;657,33;Cancelado;Cheque
+12/07/2020;2293;Saúde Total;Oftalmologia;Maria Amélia Freitas de Barros;760,70;Em aberto;Cartão débito
+16/02/2020;2572;ProntoCare;Neurologia;Joaquim Giuseppe Materazzo;572,56;Cancelado;Cheque
+08/10/2022;2064;PlanClin;Cardiologia;Raul Fontes de Barros;559,87;Em aberto;Dinheiro
+05/07/2021;2548;Vidamed;Clínica Geral;Marcela Ota Bonaventura;519,61;Em aberto;Dinheiro
+16/05/2024;2907;UniClin;Clínica Geral;João Augusto dos Santos Vieira;761,35;Pago;Boleto
+20/05/2024;2233;ProntoCare;Clínica Geral;Marcela Ota Bonaventura;618,87;Pago;Cheque
+20/08/2020;2044;ProntoCare;Cardiologia;Raul Fontes de Barros;790,66;Cancelado;Cheque
+09/08/2022;2360;UniClin;Oftalmologia;Maria Amélia Freitas de Barros;682,79;Pago;Cartão débito
+21/05/2023;2245;Saúde Total;Clínica Geral;João Augusto dos Santos Vieira;736,27;Cancelado;Boleto
+16/06/2021;2978;Saúde Total;Cardiologia;Raul Fontes de Barros;636,14;Pago;Cheque
+06/01/2023;2871;UniClin;Cardiologia;Raul Fontes de Barros;611,37;Pago;Boleto
+02/09/2021;2801;Saúde Total;Oftalmologia;Maria Amélia Freitas de Barros;670,74;Em aberto;Boleto
+16/07/2023;2991;ProntoCare;Cardiologia;Raul Fontes de Barros;462,12;Pago;Pix
+22/06/2021;2056;ProntoCare;Clínica Geral;Marcela Ota Bonaventura;772,65;Cancelado;Cartão crédito
+05/03/2022;2317;Saúde Total;Cardiologia;Raul Fontes de Barros;731,82;Cancelado;Dinheiro
+09/06/2021;2928;UniClin;Neurologia;Joaquim Giuseppe Materazzo;511,87;Pago;Dinheiro
+08/02/2022;2820;ProntoCare;Cardiologia;Raul Fontes de Barros;597,88;Em aberto;Boleto
+03/09/2022;2148;Saúde Total;Clínica Geral;João Augusto dos Santos Vieira;766,15;Pago;Cartão crédito
+02/05/2024;2330;PlanClin;Cardiologia;Raul Fontes de Barros;793,62;Em aberto;Pix
+13/10/2022;2825;UniClin;Neurologia;Joaquim Giuseppe Materazzo;518,54;Cancelado;Dinheiro
+14/07/2023;2878;Saúde Total;Clínica Geral;Marcela Ota Bonaventura;607,51;Cancelado;Cartão crédito
+12/05/2020;2919;Vidamed;Clínica Geral;Marcela Ota Bonaventura;516,34;Pago;Cheque
+19/12/2023;2122;ProntoCare;Neurologia;Joaquim Giuseppe Materazzo;464,27;Pago;Dinheiro
+22/10/2021;2680;UniClin;Clínica Geral;Marcela Ota Bonaventura;487,30;Em aberto;Cartão débito
+27/10/2021;2389;Saúde Total;Cardiologia;Raul Fontes de Barros;464,14;Pago;Cartão crédito
+18/03/2023;2387;ProntoCare;Neurologia;Joaquim Giuseppe Materazzo;529,79;Pago;Cartão crédito
+11/03/2021;2209;ProntoCare;Neurologia;Joaquim Giuseppe Materazzo;677,22;Em aberto;Pix
+21/01/2022;2321;ProntoCare;Neurologia;Joaquim Giuseppe Materazzo;720,87;Pago;Dinheiro
+28/03/2020;2037;UniClin;Clínica Geral;João Augusto dos Santos Vieira;777,50;Pago;Dinheiro
+20/01/2024;2017;PlanClin;Clínica Geral;Marcela Ota Bonaventura;660,58;Cancelado;Cheque
+01/12/2020;2509;Vidamed;Cardiologia;Raul Fontes de Barros;611,75;Pago;Cheque
+21/03/2023;2903;UniClin;Cardiologia;Raul Fontes de Barros;515,42;Cancelado;Cartão crédito
+21/10/2023;2050;UniClin;Cardiologia;Raul Fontes de Barros;645,57;Pago;Cartão crédito
+22/05/2023;2217;Saúde Total;Cardiologia;Raul Fontes de Barros;518,63;Pago;Cheque
+19/07/2024;2393;Saúde Total;Cardiologia;Raul Fontes de Barros;796,48;Cancelado;Cartão crédito
+26/02/2023;2522;Vidamed;Oftalmologia;Maria Amélia Freitas de Barros;439,39;Em aberto;Cartão crédito
+13/06/2021;2516;Saúde Total;Oftalmologia;Maria Amélia Freitas de Barros;678,22;Pago;Cheque
+08/07/2023;2152;ProntoCare;Clínica Geral;Marcela Ota Bonaventura;614,19;Cancelado;Pix
+26/10/2021;2485;PlanClin;Oftalmologia;Maria Amélia Freitas de Barros;462,36;Cancelado;Dinheiro
+06/01/2020;2318;Vidamed;Clínica Geral;Marcela Ota Bonaventura;782,75;Pago;Boleto
+13/05/2022;2801;PlanClin;Oftalmologia;Maria Amélia Freitas de Barros;719,83;Pago;Boleto
+22/05/2022;2010;Saúde Total;Clínica Geral;João Augusto dos Santos Vieira;509,39;Pago;Pix
+11/10/2023;2415;Vidamed;Clínica Geral;Marcela Ota Bonaventura;502,45;Em aberto;Dinheiro
+17/11/2020;2831;Vidamed;Clínica Geral;Marcela Ota Bonaventura;608,30;Em aberto;Pix
+12/03/2020;2338;Vidamed;Clínica Geral;João Augusto dos Santos Vieira;746,64;Em aberto;Cheque
+15/03/2022;2111;Saúde Total;Oftalmologia;Maria Amélia Freitas de Barros;656,30;Pago;Cartão débito
+24/12/2022;2785;ProntoCare;Clínica Geral;Marcela Ota Bonaventura;456,18;Em aberto;Pix
+02/01/2021;2527;Vidamed;Oftalmologia;Maria Amélia Freitas de Barros;726,86;Em aberto;Cheque
+13/02/2023;2499;PlanClin;Oftalmologia;Maria Amélia Freitas de Barros;625,50;Cancelado;Boleto
+01/11/2022;2142;UniClin;Oftalmologia;Maria Amélia Freitas de Barros;579,67;Pago;Pix
+15/02/2022;2310;UniClin;Oftalmologia;Maria Amélia Freitas de Barros;610,76;Pago;Dinheiro
+20/06/2024;2957;ProntoCare;Clínica Geral;João Augusto dos Santos Vieira;720,36;Em aberto;Cartão débito
+12/11/2022;2244;UniClin;Cardiologia;Raul Fontes de Barros;548,45;Em aberto;Pix
+13/03/2021;2212;ProntoCare;Clínica Geral;Marcela Ota Bonaventura;449,34;Pago;Cartão débito
+23/06/2023;2113;UniClin;Clínica Geral;João Augusto dos Santos Vieira;787,13;Em aberto;Cartão débito
+06/10/2022;2275;Vidamed;Oftalmologia;Maria Amélia Freitas de Barros;481,79;Em aberto;Cartão crédito
+15/05/2023;2764;ProntoCare;Oftalmologia;Maria Amélia Freitas de Barros;589,57;Pago;Cartão crédito
+22/09/2021;2568;UniClin;Clínica Geral;Marcela Ota Bonaventura;787,58;Em aberto;Cartão crédito
+22/01/2021;2320;Vidamed;Clínica Geral;Marcela Ota Bonaventura;566,29;Em aberto;Cheque
+07/07/2022;2170;ProntoCare;Oftalmologia;Maria Amélia Freitas de Barros;713,79;Pago;Dinheiro
+22/01/2024;2688;ProntoCare;Clínica Geral;Marcela Ota Bonaventura;649,40;Cancelado;Cartão crédito
+18/04/2021;2264;ProntoCare;Neurologia;Joaquim Giuseppe Materazzo;480,13;Pago;Boleto
+05/02/2021;2413;ProntoCare;Clínica Geral;João Augusto dos Santos Vieira;550,35;Pago;Cheque
+03/06/2023;2452;Vidamed;Clínica Geral;João Augusto dos Santos Vieira;764,26;Pago;Cartão crédito
+14/08/2020;2029;UniClin;Oftalmologia;Maria Amélia Freitas de Barros;449,54;Cancelado;Cartão débito
+05/02/2024;2299;Vidamed;Neurologia;Joaquim Giuseppe Materazzo;761,79;Em aberto;Dinheiro
+04/02/2021;2967;UniClin;Cardiologia;Raul Fontes de Barros;662,32;Cancelado;Cartão crédito
+12/07/2022;2245;ProntoCare;Cardiologia;Raul Fontes de Barros;443,49;Cancelado;Cheque
+20/04/2020;2304;UniClin;Oftalmologia;Maria Amélia Freitas de Barros;562,28;Em aberto;Pix
+02/02/2021;2334;Saúde Total;Neurologia;Joaquim Giuseppe Materazzo;567,89;Em aberto;Dinheiro
+08/04/2021;2362;Saúde Total;Neurologia;Joaquim Giuseppe Materazzo;512,70;Em aberto;Dinheiro
+20/10/2024;2345;Saúde Total;Oftalmologia;Maria Amélia Freitas de Barros;705,87;Pago;Cheque
+01/05/2021;2629;Vidamed;Cardiologia;Raul Fontes de Barros;729,38;Em aberto;Boleto
+07/11/2021;2598;PlanClin;Clínica Geral;João Augusto dos Santos Vieira;787,45;Pago;Pix
+26/12/2023;2262;ProntoCare;Oftalmologia;Maria Amélia Freitas de Barros;701,89;Pago;Cartão débito
+11/07/2024;2227;Saúde Total;Neurologia;Joaquim Giuseppe Materazzo;484,72;Em aberto;Cartão crédito
+16/02/2021;2816;PlanClin;Clínica Geral;Marcela Ota Bonaventura;471,82;Cancelado;Cartão crédito
+20/12/2020;2904;Vidamed;Clínica Geral;Marcela Ota Bonaventura;699,20;Em aberto;Cartão débito
+01/07/2021;2009;PlanClin;Clínica Geral;João Augusto dos Santos Vieira;448,72;Pago;Cartão débito
+17/04/2020;2196;Saúde Total;Clínica Geral;João Augusto dos Santos Vieira;689,32;Pago;Boleto
+02/09/2022;2542;ProntoCare;Cardiologia;Raul Fontes de Barros;485,81;Cancelado;Cartão débito
+14/10/2022;2322;UniClin;Neurologia;Joaquim Giuseppe Materazzo;696,56;Pago;Cartão crédito
+24/06/2020;2390;UniClin;Neurologia;Joaquim Giuseppe Materazzo;555,76;Em aberto;Cartão débito
+14/03/2020;2240;Vidamed;Oftalmologia;Maria Amélia Freitas de Barros;448,81;Em aberto;Cartão débito
+10/12/2020;2748;Vidamed;Neurologia;Joaquim Giuseppe Materazzo;592,37;Cancelado;Boleto
+07/01/2021;2357;PlanClin;Clínica Geral;Marcela Ota Bonaventura;572,84;Pago;Cartão débito
+16/05/2022;2486;PlanClin;Cardiologia;Raul Fontes de Barros;626,89;Em aberto;Boleto
+26/07/2022;2356;UniClin;Neurologia;Joaquim Giuseppe Materazzo;536,70;Pago;Dinheiro
+18/01/2024;2818;Vidamed;Clínica Geral;João Augusto dos Santos Vieira;556,46;Cancelado;Cartão crédito
+03/09/2020;2369;Vidamed;Clínica Geral;Marcela Ota Bonaventura;625,83;Em aberto;Dinheiro
+10/05/2023;2513;Saúde Total;Neurologia;Joaquim Giuseppe Materazzo;518,74;Em aberto;Dinheiro
+22/11/2022;2199;PlanClin;Oftalmologia;Maria Amélia Freitas de Barros;726,69;Cancelado;Cartão débito
+15/02/2022;2166;Vidamed;Clínica Geral;João Augusto dos Santos Vieira;535,67;Pago;Dinheiro
+13/10/2024;2007;Saúde Total;Clínica Geral;João Augusto dos Santos Vieira;532,84;Cancelado;Cartão débito
+27/12/2024;2190;UniClin;Clínica Geral;Marcela Ota Bonaventura;485,76;Em aberto;Pix
+20/05/2020;2794;Vidamed;Neurologia;Joaquim Giuseppe Materazzo;728,44;Pago;Cartão crédito
+08/08/2022;2445;Saúde Total;Neurologia;Joaquim Giuseppe Materazzo;767,28;Pago;Boleto
+17/01/2024;2747;Saúde Total;Clínica Geral;João Augusto dos Santos Vieira;596,35;Cancelado;Dinheiro
+22/05/2024;2940;UniClin;Cardiologia;Raul Fontes de Barros;767,43;Pago;Cartão débito
+23/02/2022;2514;Saúde Total;Neurologia;Joaquim Giuseppe Materazzo;580,28;Pago;Pix
+06/07/2023;2343;Vidamed;Clínica Geral;Marcela Ota Bonaventura;546,13;Pago;Boleto
+04/03/2020;2082;ProntoCare;Cardiologia;Raul Fontes de Barros;715,25;Em aberto;Cartão crédito
+12/07/2021;2375;UniClin;Oftalmologia;Maria Amélia Freitas de Barros;747,14;Pago;Cartão crédito
+20/10/2024;2952;PlanClin;Oftalmologia;Maria Amélia Freitas de Barros;483,21;Em aberto;Boleto
+08/03/2023;2870;PlanClin;Cardiologia;Raul Fontes de Barros;623,51;Em aberto;Cartão crédito
+14/01/2020;2998;Saúde Total;Clínica Geral;João Augusto dos Santos Vieira;616,35;Em aberto;Dinheiro
+13/06/2020;2991;Vidamed;Clínica Geral;João Augusto dos Santos Vieira;507,53;Pago;Pix
+14/07/2023;2838;PlanClin;Oftalmologia;Maria Amélia Freitas de Barros;538,51;Cancelado;Dinheiro
+07/05/2022;2705;ProntoCare;Clínica Geral;João Augusto dos Santos Vieira;710,19;Em aberto;Cartão crédito
+10/06/2022;2328;PlanClin;Cardiologia;Raul Fontes de Barros;584,68;Pago;Cheque
+26/05/2020;2026;Vidamed;Cardiologia;Raul Fontes de Barros;435,20;Cancelado;Cartão débito
+13/07/2021;2853;UniClin;Cardiologia;Raul Fontes de Barros;659,31;Pago;Cheque
+07/04/2022;2423;ProntoCare;Clínica Geral;Marcela Ota Bonaventura;484,23;Em aberto;Cartão débito
+13/12/2024;2371;Vidamed;Cardiologia;Raul Fontes de Barros;629,45;Pago;Cheque
+21/05/2020;2080;UniClin;Clínica Geral;Marcela Ota Bonaventura;525,82;Pago;Dinheiro
+06/01/2020;2457;UniClin;Clínica Geral;Marcela Ota Bonaventura;627,20;Em aberto;Pix
+15/06/2023;2758;Saúde Total;Clínica Geral;Marcela Ota Bonaventura;691,89;Pago;Dinheiro
+27/09/2023;2888;PlanClin;Neurologia;Joaquim Giuseppe Materazzo;446,63;Cancelado;Dinheiro
+24/06/2020;2384;Saúde Total;Cardiologia;Raul Fontes de Barros;523,66;Cancelado;Dinheiro
+25/07/2020;2931;UniClin;Clínica Geral;João Augusto dos Santos Vieira;596,31;Em aberto;Dinheiro
+13/02/2024;2820;Saúde Total;Cardiologia;Raul Fontes de Barros;765,30;Pago;Cartão débito
+03/04/2020;2826;ProntoCare;Oftalmologia;Maria Amélia Freitas de Barros;546,48;Em aberto;Boleto
+05/02/2021;2669;ProntoCare;Clínica Geral;Marcela Ota Bonaventura;719,27;Cancelado;Pix
+12/12/2020;3000;Saúde Total;Oftalmologia;Maria Amélia Freitas de Barros;645,77;Em aberto;Pix
+20/02/2020;2806;PlanClin;Neurologia;Joaquim Giuseppe Materazzo;792,58;Cancelado;Dinheiro
+05/11/2024;2953;ProntoCare;Oftalmologia;Maria Amélia Freitas de Barros;760,83;Em aberto;Cartão débito
+22/05/2021;2166;PlanClin;Clínica Geral;Marcela Ota Bonaventura;458,60;Em aberto;Pix
+08/11/2022;2391;Saúde Total;Neurologia;Joaquim Giuseppe Materazzo;791,77;Pago;Boleto
+04/08/2020;2490;Saúde Total;Neurologia;Joaquim Giuseppe Materazzo;451,20;Em aberto;Pix
+16/12/2020;2997;UniClin;Oftalmologia;Maria Amélia Freitas de Barros;437,55;Pago;Boleto
+21/11/2023;2247;Saúde Total;Clínica Geral;Marcela Ota Bonaventura;727,12;Em aberto;Pix
+06/01/2020;2406;PlanClin;Clínica Geral;Marcela Ota Bonaventura;449,15;Pago;Cartão crédito
+25/11/2021;2699;Saúde Total;Neurologia;Joaquim Giuseppe Materazzo;539,74;Em aberto;Cartão crédito
+18/11/2022;2041;Vidamed;Cardiologia;Raul Fontes de Barros;436,60;Em aberto;Dinheiro
+03/02/2021;2883;Vidamed;Clínica Geral;Marcela Ota Bonaventura;753,53;Pago;Pix
+09/02/2023;2560;PlanClin;Neurologia;Joaquim Giuseppe Materazzo;570,80;Em aberto;Pix
+06/02/2021;2190;UniClin;Clínica Geral;João Augusto dos Santos Vieira;570,46;Cancelado;Cartão crédito
+18/06/2024;2176;Vidamed;Clínica Geral;Marcela Ota Bonaventura;483,19;Cancelado;Dinheiro
+09/03/2021;2484;Saúde Total;Neurologia;Joaquim Giuseppe Materazzo;709,85;Em aberto;Boleto
+06/11/2023;2531;Saúde Total;Neurologia;Joaquim Giuseppe Materazzo;531,59;Cancelado;Cartão débito
+14/04/2022;2677;UniClin;Clínica Geral;João Augusto dos Santos Vieira;498,25;Pago;Boleto
+05/02/2023;2760;UniClin;Clínica Geral;Marcela Ota Bonaventura;738,38;Em aberto;Cartão crédito
+25/10/2021;2021;Saúde Total;Cardiologia;Raul Fontes de Barros;565,17;Cancelado;Cartão crédito
+16/05/2024;2935;Saúde Total;Clínica Geral;João Augusto dos Santos Vieira;537,70;Pago;Pix
+23/04/2020;2597;ProntoCare;Cardiologia;Raul Fontes de Barros;778,54;Em aberto;Cheque
+24/05/2021;2478;UniClin;Neurologia;Joaquim Giuseppe Materazzo;440,45;Em aberto;Cheque
+26/09/2020;2539;Vidamed;Neurologia;Joaquim Giuseppe Materazzo;670,55;Cancelado;Dinheiro
+01/03/2020;2820;Vidamed;Oftalmologia;Maria Amélia Freitas de Barros;710,13;Cancelado;Cheque
+03/11/2023;2700;PlanClin;Oftalmologia;Maria Amélia Freitas de Barros;750,18;Em aberto;Cartão crédito
+14/10/2021;2292;ProntoCare;Cardiologia;Raul Fontes de Barros;602,47;Pago;Cheque
+06/06/2021;2521;Saúde Total;Cardiologia;Raul Fontes de Barros;527,75;Em aberto;Cartão débito
+01/12/2023;2155;PlanClin;Cardiologia;Raul Fontes de Barros;732,42;Em aberto;Cheque
+14/01/2023;2663;PlanClin;Clínica Geral;João Augusto dos Santos Vieira;558,64;Cancelado;Dinheiro
+10/12/2022;2098;PlanClin;Oftalmologia;Maria Amélia Freitas de Barros;453,35;Pago;Cartão débito
+25/10/2024;2202;UniClin;Clínica Geral;João Augusto dos Santos Vieira;715,35;Em aberto;Boleto
+03/12/2023;2506;Saúde Total;Clínica Geral;Marcela Ota Bonaventura;485,19;Em aberto;Pix
+01/06/2021;2975;Saúde Total;Clínica Geral;João Augusto dos Santos Vieira;446,83;Pago;Dinheiro
+21/11/2023;2701;Vidamed;Neurologia;Joaquim Giuseppe Materazzo;770,73;Em aberto;Cartão débito
+13/05/2024;2776;Saúde Total;Oftalmologia;Maria Amélia Freitas de Barros;473,61;Pago;Dinheiro
+17/06/2020;2383;Saúde Total;Cardiologia;Raul Fontes de Barros;477,79;Cancelado;Pix
+23/03/2024;2837;UniClin;Clínica Geral;João Augusto dos Santos Vieira;441,40;Em aberto;Cartão crédito
+11/06/2024;2497;ProntoCare;Oftalmologia;Maria Amélia Freitas de Barros;534,77;Pago;Boleto
+09/06/2023;2340;Saúde Total;Neurologia;Joaquim Giuseppe Materazzo;433,42;Cancelado;Cheque
+15/12/2023;2641;Saúde Total;Cardiologia;Raul Fontes de Barros;544,45;Em aberto;Dinheiro
+10/11/2022;2196;PlanClin;Cardiologia;Raul Fontes de Barros;475,42;Em aberto;Cartão crédito
+11/05/2024;2412;Vidamed;Oftalmologia;Maria Amélia Freitas de Barros;762,64;Em aberto;Pix
+20/12/2024;2249;UniClin;Clínica Geral;Marcela Ota Bonaventura;716,34;Cancelado;Cartão crédito
+16/03/2024;2997;UniClin;Cardiologia;Raul Fontes de Barros;603,69;Em aberto;Dinheiro
+10/05/2024;2195;PlanClin;Clínica Geral;João Augusto dos Santos Vieira;546,85;Cancelado;Cheque
+26/12/2024;2249;Vidamed;Clínica Geral;João Augusto dos Santos Vieira;497,78;Cancelado;Dinheiro
+28/09/2024;2369;UniClin;Clínica Geral;Marcela Ota Bonaventura;783,23;Pago;Dinheiro
+07/06/2022;2137;ProntoCare;Neurologia;Joaquim Giuseppe Materazzo;692,34;Cancelado;Cheque
+28/10/2021;2819;Vidamed;Cardiologia;Raul Fontes de Barros;467,70;Em aberto;Cartão crédito
+09/08/2022;2077;Saúde Total;Oftalmologia;Maria Amélia Freitas de Barros;516,45;Em aberto;Cartão débito
+01/03/2024;2143;UniClin;Oftalmologia;Maria Amélia Freitas de Barros;489,80;Pago;Cartão débito
+08/03/2021;2164;ProntoCare;Neurologia;Joaquim Giuseppe Materazzo;554,67;Pago;Dinheiro
+13/09/2024;2158;ProntoCare;Clínica Geral;Marcela Ota Bonaventura;605,59;Cancelado;Cheque
+02/07/2024;2108;Vidamed;Clínica Geral;Marcela Ota Bonaventura;433,13;Pago;Cartão débito
+19/12/2024;2613;ProntoCare;Clínica Geral;João Augusto dos Santos Vieira;767,83;Pago;Pix
+08/03/2023;2737;Vidamed;Clínica Geral;João Augusto dos Santos Vieira;615,28;Cancelado;Pix
+20/02/2023;2482;ProntoCare;Clínica Geral;João Augusto dos Santos Vieira;658,84;Cancelado;Cartão débito
+22/09/2020;2991;Vidamed;Cardiologia;Raul Fontes de Barros;580,65;Cancelado;Cartão crédito
+16/01/2023;2769;ProntoCare;Clínica Geral;Marcela Ota Bonaventura;551,41;Em aberto;Dinheiro
+09/11/2024;2561;Saúde Total;Oftalmologia;Maria Amélia Freitas de Barros;493,46;Cancelado;Cartão débito
+10/08/2023;2805;Saúde Total;Clínica Geral;Marcela Ota Bonaventura;503,58;Pago;Cartão débito
+07/03/2020;2607;UniClin;Cardiologia;Raul Fontes de Barros;752,46;Pago;Cartão débito
+01/10/2022;2846;Vidamed;Cardiologia;Raul Fontes de Barros;664,55;Cancelado;Pix
+15/08/2022;2146;Saúde Total;Clínica Geral;Marcela Ota Bonaventura;629,74;Em aberto;Pix
+28/04/2022;2895;Vidamed;Clínica Geral;Marcela Ota Bonaventura;523,39;Cancelado;Dinheiro
+05/07/2024;2112;Saúde Total;Cardiologia;Raul Fontes de Barros;481,64;Pago;Cartão débito
+28/01/2021;2370;PlanClin;Neurologia;Joaquim Giuseppe Materazzo;683,23;Em aberto;Dinheiro
+12/06/2023;2928;ProntoCare;Clínica Geral;João Augusto dos Santos Vieira;617,35;Pago;Cartão débito
+01/12/2021;2582;UniClin;Oftalmologia;Maria Amélia Freitas de Barros;538,81;Em aberto;Cartão débito
+12/10/2020;2697;Saúde Total;Clínica Geral;João Augusto dos Santos Vieira;591,85;Pago;Pix
+09/04/2022;2048;UniClin;Cardiologia;Raul Fontes de Barros;718,70;Cancelado;Pix
+15/01/2023;2947;PlanClin;Clínica Geral;João Augusto dos Santos Vieira;472,56;Cancelado;Dinheiro
+23/08/2023;2098;Vidamed;Neurologia;Joaquim Giuseppe Materazzo;641,48;Cancelado;Cheque
+25/06/2023;2543;Vidamed;Cardiologia;Raul Fontes de Barros;594,24;Pago;Cheque
+03/09/2022;2891;Saúde Total;Clínica Geral;João Augusto dos Santos Vieira;762,46;Em aberto;Cartão débito
+25/03/2022;2441;Saúde Total;Neurologia;Joaquim Giuseppe Materazzo;501,47;Pago;Pix
+05/11/2021;2507;UniClin;Clínica Geral;João Augusto dos Santos Vieira;698,32;Em aberto;Pix
+05/06/2021;2401;PlanClin;Oftalmologia;Maria Amélia Freitas de Barros;788,71;Pago;Cartão crédito
+12/04/2020;2065;ProntoCare;Clínica Geral;João Augusto dos Santos Vieira;461,36;Em aberto;Dinheiro
+18/09/2020;2189;PlanClin;Clínica Geral;Marcela Ota Bonaventura;792,69;Pago;Pix
+25/11/2023;2567;UniClin;Clínica Geral;João Augusto dos Santos Vieira;542,51;Em aberto;Pix
+16/11/2021;2882;Vidamed;Clínica Geral;João Augusto dos Santos Vieira;732,62;Cancelado;Dinheiro
+24/04/2022;2042;ProntoCare;Cardiologia;Raul Fontes de Barros;491,47;Cancelado;Pix
+07/08/2020;2679;PlanClin;Clínica Geral;João Augusto dos Santos Vieira;732,43;Cancelado;Cheque
+09/12/2022;2794;UniClin;Cardiologia;Raul Fontes de Barros;433,79;Em aberto;Cartão crédito
+02/08/2020;2042;Saúde Total;Oftalmologia;Maria Amélia Freitas de Barros;737,13;Cancelado;Cartão crédito
+09/03/2020;2647;ProntoCare;Cardiologia;Raul Fontes de Barros;627,15;Pago;Boleto
+20/05/2022;2998;ProntoCare;Neurologia;Joaquim Giuseppe Materazzo;516,70;Em aberto;Boleto
+13/03/2023;2580;ProntoCare;Clínica Geral;João Augusto dos Santos Vieira;505,14;Pago;Cartão débito
+16/05/2021;2591;Vidamed;Clínica Geral;João Augusto dos Santos Vieira;708,70;Cancelado;Cartão débito
+27/08/2022;2190;UniClin;Clínica Geral;João Augusto dos Santos Vieira;496,38;Cancelado;Cheque
+12/07/2021;2183;Vidamed;Clínica Geral;João Augusto dos Santos Vieira;701,80;Em aberto;Pix
+05/03/2020;2420;ProntoCare;Cardiologia;Raul Fontes de Barros;513,68;Cancelado;Cartão débito
+15/10/2023;2156;UniClin;Clínica Geral;João Augusto dos Santos Vieira;771,53;Pago;Boleto
+17/08/2021;2585;PlanClin;Clínica Geral;João Augusto dos Santos Vieira;597,54;Cancelado;Boleto
+27/12/2020;2624;ProntoCare;Cardiologia;Raul Fontes de Barros;581,65;Cancelado;Cartão débito
+26/03/2021;2134;Saúde Total;Neurologia;Joaquim Giuseppe Materazzo;605,16;Em aberto;Dinheiro
+23/03/2022;2435;UniClin;Clínica Geral;João Augusto dos Santos Vieira;674,78;Cancelado;Boleto
+24/06/2022;2181;PlanClin;Clínica Geral;Marcela Ota Bonaventura;641,85;Cancelado;Boleto
+03/10/2024;2698;ProntoCare;Neurologia;Joaquim Giuseppe Materazzo;514,89;Em aberto;Cartão crédito
+02/03/2022;2149;Saúde Total;Clínica Geral;João Augusto dos Santos Vieira;497,53;Pago;Dinheiro
+20/04/2020;2022;ProntoCare;Neurologia;Joaquim Giuseppe Materazzo;546,75;Em aberto;Dinheiro
+03/05/2021;2616;UniClin;Neurologia;Joaquim Giuseppe Materazzo;727,55;Pago;Cartão crédito
+04/08/2022;2134;ProntoCare;Clínica Geral;Marcela Ota Bonaventura;630,56;Pago;Boleto
+20/06/2023;2350;Saúde Total;Clínica Geral;Marcela Ota Bonaventura;725,50;Cancelado;Dinheiro
+17/01/2023;2947;Saúde Total;Oftalmologia;Maria Amélia Freitas de Barros;547,86;Pago;Dinheiro
+16/08/2024;2385;Saúde Total;Clínica Geral;João Augusto dos Santos Vieira;662,40;Cancelado;Dinheiro
+28/10/2021;2713;Vidamed;Cardiologia;Raul Fontes de Barros;521,21;Em aberto;Pix
+21/07/2023;2240;UniClin;Clínica Geral;Marcela Ota Bonaventura;510,50;Cancelado;Cartão crédito
+16/10/2022;2997;ProntoCare;Oftalmologia;Maria Amélia Freitas de Barros;578,88;Cancelado;Dinheiro
+03/11/2024;2076;Vidamed;Clínica Geral;João Augusto dos Santos Vieira;760,58;Pago;Boleto
+10/10/2021;2763;ProntoCare;Neurologia;Joaquim Giuseppe Materazzo;750,76;Em aberto;Cheque
+28/07/2023;2653;Saúde Total;Clínica Geral;Marcela Ota Bonaventura;751,80;Cancelado;Cartão débito
+15/05/2021;2008;Saúde Total;Oftalmologia;Maria Amélia Freitas de Barros;788,52;Pago;Cartão crédito
+14/05/2022;2520;Saúde Total;Clínica Geral;João Augusto dos Santos Vieira;655,78;Pago;Boleto
+27/01/2022;2999;Vidamed;Oftalmologia;Maria Amélia Freitas de Barros;449,21;Em aberto;Boleto
+28/12/2022;2236;PlanClin;Cardiologia;Raul Fontes de Barros;567,28;Cancelado;Cheque
+24/05/2020;2372;ProntoCare;Neurologia;Joaquim Giuseppe Materazzo;575,84;Cancelado;Cartão débito
+25/05/2021;2884;ProntoCare;Clínica Geral;Marcela Ota Bonaventura;663,58;Cancelado;Dinheiro
+20/01/2022;2774;UniClin;Oftalmologia;Maria Amélia Freitas de Barros;686,42;Em aberto;Dinheiro
+03/02/2024;2754;ProntoCare;Clínica Geral;Marcela Ota Bonaventura;492,27;Cancelado;Boleto
+06/12/2021;2813;UniClin;Clínica Geral;Marcela Ota Bonaventura;589,38;Pago;Pix
+07/12/2022;2058;PlanClin;Neurologia;Joaquim Giuseppe Materazzo;588,50;Cancelado;Cheque
+05/09/2020;2115;Saúde Total;Neurologia;Joaquim Giuseppe Materazzo;438,84;Pago;Cheque
+20/11/2022;2213;PlanClin;Clínica Geral;João Augusto dos Santos Vieira;763,73;Cancelado;Cartão débito
+12/04/2020;2233;ProntoCare;Neurologia;Joaquim Giuseppe Materazzo;460,54;Em aberto;Boleto
+25/10/2021;2276;Vidamed;Clínica Geral;João Augusto dos Santos Vieira;555,27;Cancelado;Cheque
+24/04/2021;2877;UniClin;Cardiologia;Raul Fontes de Barros;462,39;Pago;Dinheiro
+05/08/2023;2499;Vidamed;Oftalmologia;Maria Amélia Freitas de Barros;515,18;Cancelado;Cartão débito
+25/02/2022;2822;UniClin;Cardiologia;Raul Fontes de Barros;478,62;Em aberto;Cartão crédito
+07/09/2021;2403;PlanClin;Cardiologia;Raul Fontes de Barros;698,48;Pago;Cartão crédito
+13/03/2024;2384;ProntoCare;Oftalmologia;Maria Amélia Freitas de Barros;627,52;Em aberto;Cartão débito
+12/08/2024;2263;PlanClin;Clínica Geral;Marcela Ota Bonaventura;494,61;Em aberto;Pix
+01/06/2022;2015;PlanClin;Cardiologia;Raul Fontes de Barros;474,19;Pago;Dinheiro
+20/03/2023;2556;UniClin;Cardiologia;Raul Fontes de Barros;727,76;Cancelado;Cartão crédito
+16/04/2023;2222;UniClin;Cardiologia;Raul Fontes de Barros;726,82;Cancelado;Pix
+11/01/2024;2882;PlanClin;Clínica Geral;João Augusto dos Santos Vieira;618,46;Cancelado;Boleto
+04/02/2024;2926;ProntoCare;Cardiologia;Raul Fontes de Barros;510,81;Cancelado;Cartão débito
+06/03/2023;2914;Vidamed;Neurologia;Joaquim Giuseppe Materazzo;707,76;Cancelado;Cartão crédito
+05/09/2024;2198;Vidamed;Oftalmologia;Maria Amélia Freitas de Barros;774,70;Cancelado;Dinheiro
+09/04/2020;2447;ProntoCare;Oftalmologia;Maria Amélia Freitas de Barros;742,53;Pago;Dinheiro
+24/03/2020;2400;PlanClin;Clínica Geral;João Augusto dos Santos Vieira;442,30;Pago;Pix
+16/04/2022;2626;Vidamed;Neurologia;Joaquim Giuseppe Materazzo;777,56;Em aberto;Cartão débito
+15/09/2024;2856;PlanClin;Oftalmologia;Maria Amélia Freitas de Barros;507,58;Cancelado;Pix
+18/08/2023;2567;Vidamed;Neurologia;Joaquim Giuseppe Materazzo;792,53;Em aberto;Dinheiro
+15/10/2024;2983;ProntoCare;Oftalmologia;Maria Amélia Freitas de Barros;685,21;Cancelado;Cartão crédito
+19/05/2024;2984;UniClin;Oftalmologia;Maria Amélia Freitas de Barros;728,60;Cancelado;Cheque
+08/02/2021;2353;ProntoCare;Clínica Geral;João Augusto dos Santos Vieira;585,45;Cancelado;Pix
+04/04/2023;2039;Vidamed;Cardiologia;Raul Fontes de Barros;759,89;Pago;Pix
+21/07/2021;2704;PlanClin;Cardiologia;Raul Fontes de Barros;505,85;Em aberto;Cartão crédito
+10/02/2022;2964;Vidamed;Clínica Geral;João Augusto dos Santos Vieira;557,39;Cancelado;Cartão crédito
+08/09/2022;2154;PlanClin;Neurologia;Joaquim Giuseppe Materazzo;665,44;Pago;Cartão crédito
+03/02/2024;2770;PlanClin;Clínica Geral;Marcela Ota Bonaventura;647,30;Pago;Cartão débito
+14/02/2024;2562;PlanClin;Clínica Geral;João Augusto dos Santos Vieira;613,80;Em aberto;Cheque
+27/06/2023;2122;Vidamed;Clínica Geral;João Augusto dos Santos Vieira;713,67;Em aberto;Dinheiro
+04/06/2021;2597;Saúde Total;Neurologia;Joaquim Giuseppe Materazzo;558,39;Cancelado;Cheque
+11/08/2022;2027;UniClin;Cardiologia;Raul Fontes de Barros;580,82;Cancelado;Cheque
+18/08/2024;2405;ProntoCare;Oftalmologia;Maria Amélia Freitas de Barros;704,68;Em aberto;Cartão crédito
+28/09/2023;2265;ProntoCare;Clínica Geral;Marcela Ota Bonaventura;606,54;Em aberto;Dinheiro
+25/02/2024;2300;ProntoCare;Cardiologia;Raul Fontes de Barros;502,71;Pago;Pix
+12/06/2023;2096;Saúde Total;Clínica Geral;Marcela Ota Bonaventura;625,80;Cancelado;Cartão crédito
+16/06/2021;2655;PlanClin;Neurologia;Joaquim Giuseppe Materazzo;631,26;Pago;Boleto
+05/05/2020;2192;PlanClin;Cardiologia;Raul Fontes de Barros;461,84;Pago;Cartão crédito
+05/07/2021;2519;Saúde Total;Oftalmologia;Maria Amélia Freitas de Barros;736,45;Em aberto;Boleto
+06/06/2021;2968;Vidamed;Oftalmologia;Maria Amélia Freitas de Barros;470,79;Pago;Pix
+06/09/2022;2511;Saúde Total;Cardiologia;Raul Fontes de Barros;727,19;Em aberto;Dinheiro
+03/07/2024;2152;UniClin;Clínica Geral;Marcela Ota Bonaventura;642,70;Pago;Cartão débito
+06/12/2022;2013;UniClin;Neurologia;Joaquim Giuseppe Materazzo;785,52;Cancelado;Cheque
+15/12/2023;2447;Saúde Total;Oftalmologia;Maria Amélia Freitas de Barros;434,34;Em aberto;Cartão débito
+02/01/2021;2836;Saúde Total;Cardiologia;Raul Fontes de Barros;490,68;Cancelado;Cartão débito
+25/02/2023;2911;UniClin;Cardiologia;Raul Fontes de Barros;719,21;Pago;Dinheiro
+21/12/2021;2968;Saúde Total;Clínica Geral;Marcela Ota Bonaventura;720,57;Cancelado;Cartão débito
+07/11/2022;2499;ProntoCare;Clínica Geral;João Augusto dos Santos Vieira;608,84;Pago;Dinheiro
+16/02/2024;2537;ProntoCare;Clínica Geral;Marcela Ota Bonaventura;462,45;Cancelado;Cheque
+04/06/2023;2717;UniClin;Neurologia;Joaquim Giuseppe Materazzo;510,22;Pago;Dinheiro
+17/10/2022;2223;Vidamed;Clínica Geral;João Augusto dos Santos Vieira;570,58;Cancelado;Pix
+23/01/2020;2868;Vidamed;Clínica Geral;João Augusto dos Santos Vieira;756,44;Pago;Cartão débito
+10/08/2024;2732;Vidamed;Neurologia;Joaquim Giuseppe Materazzo;694,82;Cancelado;Dinheiro
+13/02/2023;2260;PlanClin;Cardiologia;Raul Fontes de Barros;734,65;Cancelado;Cheque
+12/05/2020;2200;Vidamed;Clínica Geral;Marcela Ota Bonaventura;793,55;Cancelado;Cartão débito
+21/07/2023;2981;PlanClin;Clínica Geral;Marcela Ota Bonaventura;754,75;Em aberto;Cartão débito
+21/11/2024;2823;Saúde Total;Oftalmologia;Maria Amélia Freitas de Barros;676,82;Pago;Cartão débito
+16/09/2021;2006;ProntoCare;Neurologia;Joaquim Giuseppe Materazzo;479,49;Em aberto;Pix
+23/06/2021;2807;Vidamed;Cardiologia;Raul Fontes de Barros;489,15;Cancelado;Dinheiro
+15/06/2024;2821;ProntoCare;Cardiologia;Raul Fontes de Barros;488,89;Cancelado;Dinheiro
+08/06/2021;2816;ProntoCare;Cardiologia;Raul Fontes de Barros;662,34;Pago;Cartão débito
+05/01/2022;2368;Saúde Total;Oftalmologia;Maria Amélia Freitas de Barros;740,44;Em aberto;Boleto
+07/08/2022;2355;UniClin;Cardiologia;Raul Fontes de Barros;645,79;Cancelado;Boleto
+10/09/2021;2420;Saúde Total;Oftalmologia;Maria Amélia Freitas de Barros;753,55;Pago;Cheque
+11/05/2020;2112;PlanClin;Clínica Geral;João Augusto dos Santos Vieira;647,24;Cancelado;Boleto
+03/08/2021;2267;Saúde Total;Neurologia;Joaquim Giuseppe Materazzo;793,33;Pago;Dinheiro
